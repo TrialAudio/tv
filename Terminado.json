@@ -1,0 +1,43 @@
+[
+  {
+  "name": "La 1",
+  "backgroundIMG": "https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1617959239057.jpg",
+  "cardImage": "https://visiona.tv/wp-content/uploads/2019/06/tve1.png",
+  "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+  },{
+  "name": "La 2",
+  "backgroundIMG": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
+  "cardImage": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
+  "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+  },{
+  "name": "Antena 3",
+  "backgroundIMG": "https://graph.facebook.com/antena3/picture?width=200&height=200",
+  "cardImage": "https://graph.facebook.com/antena3/picture?width=200&height=200",
+  "url": "https://www.atresplayer.com/directos/antena3"
+  },{
+  "name": "Cuatro",
+  "backgroundIMG": "https://album.mediaset.es/eimg/10000/2022/03/24/clipping_GBuTAb_a998.jpg?w=1024",
+  "cardImage": "https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png",
+  "url": "https://www.mitele.es/directo/cuatro"
+  },{
+  "name": "Telecinco",
+  "backgroundIMG": "https://album.mediaset.es/eimg/10000/2021/05/26/clipping_4bWxQ1_5688.jpg",
+  "cardImage": "https://album.mediaset.es/parrillas/2019/07/26/3c596765624795054a7a477b1ce0ef671564158483.png",
+  "url": "https://www.mitele.es/directo/telecinco"
+  },{
+  "name": "La Sexta",
+  "backgroundIMG": "https://ametic.es/sites/default/files//lasexta.jpg",
+  "cardImage": "https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png",
+  "url": "https://www.atresplayer.com/directos/lasexta/"
+  },{
+  "name": "Canal Sur Andalucia",
+  "backgroundIMG": "https://1.bp.blogspot.com/-hncpcXgiS7o/XhzEttGjvRI/AAAAAAAA5RQ/nvQD8j5YMp0MxrOmWX_uf-9R3zpoPWHOgCLcBGAsYHQ/w1200-h630-p-k-no-nu/canal-sur-addon-kodi.png",
+  "cardImage": "https://1.bp.blogspot.com/-hncpcXgiS7o/XhzEttGjvRI/AAAAAAAA5RQ/nvQD8j5YMp0MxrOmWX_uf-9R3zpoPWHOgCLcBGAsYHQ/s1600/canal-sur-addon-kodi.png",
+  "url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8"
+  },{
+  "name": "Mega",
+  "backgroundIMG": "https://www.gratistodo.com/wp-content/uploads/2022/02/MEGA-1.jpg",
+  "cardImage": "https://ipmark.com/wp-content/uploads/2015/05/Mega-TV.jpg",
+  "url": "https://www.atresplayer.com/directos/mega/"
+  }
+]
