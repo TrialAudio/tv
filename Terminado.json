@@ -39,5 +39,16 @@
   "backgroundIMG": "https://www.gratistodo.com/wp-content/uploads/2022/02/MEGA-1.jpg",
   "cardImage": "https://ipmark.com/wp-content/uploads/2015/05/Mega-TV.jpg",
   "url": "https://www.atresplayer.com/directos/mega/"
+  },{
+  "name": "Clan",
+  "backgroundIMG": "https://img2.rtve.es/css/resources/thumbs/genericClan_catalogo.png",
+  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
+  "url": "https://www.rtve.es/play/videos/directo/clan/"
+  }
+  ,{
+  "name": "Boing",
+  "backgroundIMG": "https://www.mundoplus.tv/wp-content/uploads/2021/04/boing-1.jpg",
+  "cardImage": "https://album.mediaset.es/eimg/2019/12/11/PyOmGltkZlkEhEDOj84X13.jpg",
+  "url": "https://www.mitele.es/directo/boing/"
   }
 ]
