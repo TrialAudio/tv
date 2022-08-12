@@ -49,5 +49,60 @@
   "backgroundIMG": "https://www.mundoplus.tv/wp-content/uploads/2021/04/boing-1.jpg",
   "cardImage": "https://album.mediaset.es/eimg/2019/12/11/PyOmGltkZlkEhEDOj84X13.jpg",
   "url": "https://www.mitele.es/directo/boing/"
+  },{
+  "name": "Neox",
+  "backgroundIMG": "https://static.canalapps.com/uploads/2020/10/neox-logo.jpg",
+  "cardImage": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/344860CE-9D54-4A15-9356-1DE499E4A46E//720x540.jpg",
+  "url": "https://www.atresplayer.com/directos/neox/"
+  },{
+  "name": "Nova",
+  "backgroundIMG": "https://pbs.twimg.com/profile_images/1451503742466002983/fHwVqDqG_400x400.jpg",
+  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-nova_%282005-2012%29.jpg",
+  "url": "https://www.atresplayer.com/directos/nova/"
+  },{
+  "name": "FDF",
+  "backgroundIMG": "https://papeldigital.info/wp-content/uploads/2021/08/logotipo-factoria-de-ficcion.jpg",
+  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",
+  "url": "https://www.mitele.es/directo/fdf/"
+  },{
+  "name": "Divinity",
+  "backgroundIMG": "https://1.bp.blogspot.com/-cJ6GiOsrU2M/UDz5CylieII/AAAAAAAADzg/zyUlnwKy9c8/s1600/divinity.jpg",
+  "cardImage": "https://sincroguia-tv.expansion.com/uploads/images/d/i/v/divinity.jpg",
+  "url": "https://www.mitele.es/directo/divinity/"
+  },{
+  "name": "Energy",
+  "backgroundIMG": "https://www.formulatv.com/images/noticias/22800/22845/2.jpg",
+  "cardImage": "https://waytel.es/wp-content/uploads/2020/03/Energy.jpg",
+  "url": "https://www.mitele.es/directo/energy/"
+  },{
+  "name": "BeMad",
+  "backgroundIMG": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg",
+  "cardImage": "https://iteleflix.com/archivos/Logo-Be-MAd.png",
+  "url": "https://www.mitele.es/directo/bemad/"
+  },{
+  "name": "TDP",
+  "backgroundIMG": "https://ravelodeporte.es/wp-content/uploads/2020/03/Logo-Teledeporte-300x169.png",
+  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+  "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
+  },{
+  "name": "Gol TV",
+  "backgroundIMG": "https://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png",
+  "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
+  "url": "https://www.goltelevision.com/en-directo"
+  },{
+  "name": "Onda Cadiz",
+  "backgroundIMG": "https://i2.wp.com/almeria.fape.es/wp-content/uploads/2015/04/Onda_Cadiz.jpg",
+  "cardImage": "https://www.donasport.com/slike/onda-cadiz-tv-spain.jpg",
+  "url": "https://adc-hls.flumotion.com/playlist.m3u8"
+  },{
+  "name": "Real Madrid TV",
+  "backgroundIMG": "https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg",
+  "cardImage": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
+  "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+  },{
+  "name": "24h",
+  "backgroundIMG": "https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1617959120555.jpg",
+  "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
+  "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
   }
 ]
