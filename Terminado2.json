@@ -104,5 +104,10 @@
   "backgroundIMG": "https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1617959120555.jpg",
   "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
   "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+  },{
+  "name": "DKISS",
+  "backgroundIMG": "https://www.mundoplus.tv/wp-content/uploads/2021/04/dkiss-__.jpg",
+  "cardImage": "https://www.dkiss.es/wp-content/uploads/dkiss.png",
+  "url": "http://242449301874267959.nicehos.xyz:80/S3BKFNQKR8/0789182787/267959"
   }
 ]
