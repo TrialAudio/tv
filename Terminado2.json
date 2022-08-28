@@ -2,7 +2,7 @@
   {
   "name": "La 1",
   "backgroundIMG": "https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1617959239057.jpg",
-  "cardImage": "https://visiona.tv/wp-content/uploads/2019/06/tve1.png",
+  "cardImage": "https://imgur.com/ZNilSzN",
   "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
   },{
   "name": "La 2",
@@ -82,7 +82,7 @@
   },{
   "name": "TDP",
   "backgroundIMG": "https://ravelodeporte.es/wp-content/uploads/2020/03/Logo-Teledeporte-300x169.png",
-  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+  "cardImage": "https://i.imgur.com/QheI02Q.jpg",
   "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
   },{
   "name": "Gol TV",
@@ -97,7 +97,7 @@
   },{
   "name": "Real Madrid TV",
   "backgroundIMG": "https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg",
-  "cardImage": "https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",
+  "cardImage": "https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg",
   "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
   },{
   "name": "24h",
