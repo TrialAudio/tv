@@ -37,12 +37,12 @@
   },{
   "name": "Mega",
   "backgroundIMG": "https://www.gratistodo.com/wp-content/uploads/2022/02/MEGA-1.jpg",
-  "cardImage": "https://ipmark.com/wp-content/uploads/2015/05/Mega-TV.jpg",
+  "cardImage": "https://pbs.twimg.com/media/CGFhn7TXIAA8JVL.jpg",
   "url": "https://www.atresplayer.com/directos/mega/"
   },{
   "name": "Clan",
   "backgroundIMG": "https://img2.rtve.es/css/resources/thumbs/genericClan_catalogo.png",
-  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
+  "cardImage": "https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_clantve.jpg",
   "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8"
   },{
   "name": "Boing",
@@ -62,7 +62,7 @@
   },{
   "name": "FDF",
   "backgroundIMG": "https://papeldigital.info/wp-content/uploads/2021/08/logotipo-factoria-de-ficcion.jpg",
-  "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",
+  "cardImage": "https://mojobrands.net/wp-content/uploads/2015/12/FDF_logo-480x480.png",
   "url": "https://www.mitele.es/directo/fdf/"
   },{
   "name": "Divinity",
