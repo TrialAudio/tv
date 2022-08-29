@@ -1,91 +1,113 @@
 [
+  "canales",
   {
-  "TDT": [
+    "TDT": [
       {
         "name": "La 1",
         "cardImage": "https://i.imgur.com/3ajw9Ah.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-        },{
+      },
+      {
         "name": "La 2",
         "cardImage": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
         "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-        },{
+      },
+      {
         "name": "Antena 3",
         "cardImage": "https://graph.facebook.com/antena3/picture?width=200&height=200",
         "url": "https://www.atresplayer.com/directos/antena3"
-        },{
+      },
+      {
         "name": "Cuatro",
         "cardImage": "https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png",
         "url": "https://www.mitele.es/directo/cuatro"
-        },{
+      },
+      {
         "name": "Telecinco",
         "cardImage": "https://i.imgur.com/ukA2Uuu.jpg",
         "url": "https://www.mitele.es/directo/telecinco"
-        },{
+      },
+      {
         "name": "La Sexta",
         "cardImage": "https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png",
         "url": "https://www.atresplayer.com/directos/lasexta/"
-        },{
+      },
+      {
         "name": "Canal Sur Andalucia",
         "cardImage": "https://1.bp.blogspot.com/-hncpcXgiS7o/XhzEttGjvRI/AAAAAAAA5RQ/nvQD8j5YMp0MxrOmWX_uf-9R3zpoPWHOgCLcBGAsYHQ/s1600/canal-sur-addon-kodi.png",
         "url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8"
-        },{
+      },
+      {
         "name": "Mega",
         "cardImage": "https://pbs.twimg.com/media/CGFhn7TXIAA8JVL.jpg",
         "url": "https://www.atresplayer.com/directos/mega/"
-        },{
+      },
+      {
         "name": "Clan",
         "cardImage": "https://i.imgur.com/Cd4CyOq.jpg",
         "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8"
-        },{
+      },
+      {
         "name": "Boing",
         "cardImage": "https://album.mediaset.es/eimg/2019/12/11/PyOmGltkZlkEhEDOj84X13.jpg",
         "url": "https://www.mitele.es/directo/boing/"
-        },{
+      },
+      {
         "name": "Neox",
         "cardImage": "https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_neox.jpg",
         "url": "https://www.atresplayer.com/directos/neox/"
-        },{
+      },
+      {
         "name": "Nova",
         "cardImage": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/9E408606-58A2-46D1-BCC8-BDE2FD5FAD78//720x540.jpg",
         "url": "https://www.atresplayer.com/directos/nova/"
-        },{
+      },
+      {
         "name": "FDF",
         "cardImage": "https://mojobrands.net/wp-content/uploads/2015/12/FDF_logo-480x480.png",
         "url": "https://www.mitele.es/directo/fdf/"
-        },{
+      },
+      {
         "name": "Divinity",
         "cardImage": "https://sincroguia-tv.expansion.com/uploads/images/d/i/v/divinity.jpg",
         "url": "https://www.mitele.es/directo/divinity/"
-        },{
+      },
+      {
         "name": "Energy",
         "cardImage": "https://waytel.es/wp-content/uploads/2020/03/Energy.jpg",
         "url": "https://www.mitele.es/directo/energy/"
-        },{
+      },
+      {
         "name": "BeMad",
         "cardImage": "https://iteleflix.com/archivos/Logo-Be-MAd.png",
         "url": "https://www.mitele.es/directo/bemad/"
-        },{
+      },
+      {
         "name": "TDP",
         "cardImage": "https://i.imgur.com/QheI02Q.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
-        },{
+      },
+      {
         "name": "Gol TV",
         "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
         "url": "https://www.goltelevision.com/en-directo"
-        },{
+      },
+      {
         "name": "Onda Cádiz",
         "cardImage": "https://www.donasport.com/slike/onda-cadiz-tv-spain.jpg",
         "url": "https://adc-hls.flumotion.com/playlist.m3u8"
-        },{
+      },
+      {
         "name": "Real Madrid TV",
         "cardImage": "https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg",
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-        },{
+      },
+      {
         "name": "24h",
         "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
-        },{
+      },
+      {
         "name": "DKISS",
         "cardImage": "https://www.dkiss.es/wp-content/uploads/dkiss.png",
         "url": "http://242449301874267959.nicehos.xyz:80/S3BKFNQKR8/0789182787/267959"
@@ -96,215 +118,268 @@
         "name": "Canal Sur Andalucía",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Sur 2 Andalucía",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "101 Málaga",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Mijas 3.40 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Onda Cádiz",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "M95 Marbella",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Huelva TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Sierra de Cádiz",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 45 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "PTV Málaga",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Córdoba TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Costa Noroeste TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Teleonuba",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Condavisión",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "CanalCosta",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Uvitel TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Interalmería TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Tuya la Janda TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Centro Andalucía",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal San Roque",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Onda Algeciras TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Estepona TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Doñana",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Axarquía TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "PTV Linares",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Telecija",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Écija Comarca TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Málaga 24h TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Torrevisión",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleQuivir",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Telemotril",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Diez TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "CostadelSol TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Bailén TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "101 TV Antequera",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "8TV Jerez",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Sal TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "9 La Loma TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Vivamóvil TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Carmona",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Málaga",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "101 TV Axarquia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "PTV Granada",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleGilena",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Fuengirola TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Islatel",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "PTV Sevilla",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "PTV Córdoba",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Coín",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVM Córdoba",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Cancionero TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La Fábrica TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Onda Cádiz 24H",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Parlamento de Andalucía",
         "cardImage": "",
         "url": ""
@@ -315,7 +390,8 @@
         "name": "Aragón TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 25 Basbastro TV",
         "cardImage": "",
         "url": ""
@@ -326,43 +402,53 @@
         "name": "La 1 Canarias",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 2 Canarias",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "24H Canarias",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 4 Tenerife",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Biosfera TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "NORTEvision",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "RTV Mogán",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Lancelot TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Este Canal TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Noroeste TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Afortunadas TV",
         "cardImage": "",
         "url": ""
@@ -373,7 +459,8 @@
         "name": "Cantabria TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Popular TV Cantabria",
         "cardImage": "",
         "url": ""
@@ -384,39 +471,48 @@
         "name": "Castilla La Mancha Media",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Hellin",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Guada TV Media",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Vision 6 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Imás TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "CanalImagen Almansa",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "InfoCanal Almansa",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Alcarria TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 4 Mancha Centro",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleToledo",
         "cardImage": "",
         "url": ""
@@ -427,55 +523,68 @@
         "name": "La 7",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Ávila",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Bierzo",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Burgos",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 León",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Palencia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Salamanca",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Segovia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Soria",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Valladolid",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La 8 Zamora",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Benavente",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 54",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Aranda",
         "cardImage": "",
         "url": ""
@@ -486,159 +595,198 @@
         "name": "TV3",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "324",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "33",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Super 3",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "CCMA Exclusiu 1",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Bon Dia TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "betevé",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "teve.cat",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "8 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Terres de l'Ebre",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Reus TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "El 9 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Empordà TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "BDN",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TAC 12",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Terrassa",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 21 Ebre",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Lleida TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Costa Brava",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "La Xarxa",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Olot TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Blau",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Taronja Central",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV L'Hospitalet",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV del Berguedà",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "RTV El Vendrell",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Taronja Anoia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Cugat Media",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "VOTV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "RTV Ulldecona",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Taronja Osona i Moianés",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Mataró Audiovisual",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "RTV Vilafranca",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV De Girona",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "RTV Cardedeu",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 10 Empordà",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV del Ripollès",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Mar TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Sabadell Vallès",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "25 TV",
         "cardImage": "",
         "url": ""
@@ -649,39 +797,48 @@
         "name": "Telemadrid",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "LAOTRA",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "WebCam OndaMadrid",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Teleganés",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Distrito TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Déjate de Historias TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 33 Madrid",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "GCM TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Nesting TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Iberoamérica TV",
         "cardImage": "",
         "url": ""
@@ -692,11 +849,13 @@
         "name": "Navarra TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleRibera",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Parlamento de Navarra",
         "cardImage": "",
         "url": ""
@@ -707,103 +866,128 @@
         "name": "À Punt",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "7 TeleValencia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Intercomarcal TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleElx",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Ribera TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "8 La Marina TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Castelló",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Artequatre",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "12TV Alicante",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Vega Baja",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV 4 Vall De Uxó",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Burriana TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Telesafor",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Elche 7 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 56",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Tevequatre TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Maestrat TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Univers TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Almanssora",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Onda 15 TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 3 Biar",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Ràdio Bocairent TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Punt 3 Vall Uixó",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "El Toro Valencia TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Ciudades dek Ocio TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Onda Valencia",
         "cardImage": "",
         "url": ""
