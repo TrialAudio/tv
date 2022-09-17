@@ -579,206 +579,186 @@
         "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
       }
     ],
-    "Cataluña": [
+        "Cataluña": [
       {
         "name": "TV3",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png",
+        "url": "https://directes-tv-cat.ccma.cat/live-content/tv3-hls/master.m3u8"
       },
       {
         "name": "324",
-        "cardImage": "",
-        "url": ""
-      },
-      {
-        "name": "33",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://statics.ccma.cat/ccma/img/logo-3-24.png",
+        "url": "https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8"
       },
       {
         "name": "Super 3",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://statics.ccma.cat/img/logo.super3.png",
+        "url": "https://directes-tv-cat.ccma.cat/live-content/c33-super3-hls/master.m3u8"
       },
       {
         "name": "CCMA Exclusiu 1",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/T4OEScc.jpg",
+        "url": "https://directes-tv-cat.ccma.cat/live-content/oca1-hls/master.m3u8"
       },
       {
         "name": "Bon Dia TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.bondiatv.org/img/og/bondiatv.png",
+        "url": "https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8"
       },
       {
         "name": "betevé",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://brandemia.org/sites/default/files/inline/images/beteve-logo-brandemia.jpg",
+        "url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
       },
       {
         "name": "teve.cat",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://media.vozpopuli.com/2021/02/Logo-canal-Tevecat_1348375157_14924878_1020x574.jpg",
+        "url": "https://www.teve.cat/en-directe"
       },
       {
         "name": "8 TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.8tv.cat/static/img/banner.jpg",
+        "url": "https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8"
       },
       {
         "name": "Canal Terres de l'Ebre",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://ebredigital.cat/wp-content/uploads/2018/10/Logo-Canal-Terres-de-lEbre.jpg",
+        "url": "https://ebredigital.cat/en-directe/"
       },
       {
         "name": "Canal Reus TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://feht-turisme.org/wp-content/uploads/2021/02/canal-reus-logo-700x480.png",
+        "url": "http://www.canalreustv.cat"
       },
       {
         "name": "El 9 TV",
-        "cardImage": "",
-        "url": ""
-      },
-      {
-        "name": "Empordà TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1501487846317867013/T7_Kdba8_400x400.jpg",
+        "url": "https://el9nou.cat/el9tv/"
       },
       {
         "name": "BDN",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg",
+        "url": "https://www.bdncom.cat/directe/"
       },
       {
         "name": "TAC 12",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tac_12_logo.svg/1200px-Tac_12_logo.svg.png",
+        "url": "https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8"
       },
       {
         "name": "Canal Terrassa",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/canal-terrasa.png",
+        "url": "https://terrassadigital.cat/televisio/"
       },
       {
         "name": "Canal 21 Ebre",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.canal21ebre.com/wp-content/uploads/2019/08/FAVICON_C21.png",
+        "url": "https://www.canal21ebre.com/en-directe/"
       },
       {
         "name": "Lleida TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/lleida-televisio.png",
+        "url": "https://lleidatv.alacarta.cat/endirecte"
       },
       {
         "name": "TV Costa Brava",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1355783979/CBGM_-_TV_Trans500_400x400.jpg",
+        "url": "https://www.tvcostabrava.com/canals-online/televisio-costa-brava-online"
       },
       {
         "name": "La Xarxa",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.antropologiainuit.com/wp-content/uploads/2013/05/la-xarxa-radio.jpg",
+        "url": "https://www.alacarta.cat/graella/tv"
       },
       {
         "name": "Olot TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/Ka7ENMN.jpg",
+        "url": "https://www.olot.tv/olot-televisio-en-directe/"
       },
       {
         "name": "Canal Blau",
-        "cardImage": "",
-        "url": ""
-      },
-      {
-        "name": "Canal Taronja Central",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://enacast.com/media/cache/ac/05/ac052736b5d867d36971696ed28adc79.jpg",
+        "url": "https://canalblau.alacarta.cat/televisio-en-directe"
       },
       {
         "name": "TV L'Hospitalet",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/1200px-Logotip_TV_L%27H.svg.png",
+        "url": "https://lhdigital.cat/web/digital-h/en-directe"
       },
       {
         "name": "TV del Berguedà",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1449017616950038534/ISPr9iRJ_400x400.jpg",
+        "url": "https://tvbergueda.alacarta.cat"
       },
       {
         "name": "RTV El Vendrell",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.rtvelvendrell.cat/wp-content/uploads/2020/09/cropped-favicon.jpg",
+        "url": "https://www.rtvelvendrell.cat/directes/televisio/"
       },
       {
         "name": "Canal Taronja Anoia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1468852656999440386/5GWzlBlC_400x400.jpg",
+        "url": "https://www.canaltaronja.cat/anoia/canal-taronja-en-directe/"
       },
       {
         "name": "Cugat Media",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://assets.cugat.cat/fotos/botons/logo_fb_quadrat.png",
+        "url": "https://www.cugat.cat/tv/directe"
       },
       {
         "name": "VOTV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/valles-oriental-televisio.png",
+        "url": "http://votv.alacarta.cat/votv-en-directe"
       },
       {
         "name": "RTV Ulldecona",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://enacast.com/media/cache/2f/a0/2fa04dc0cb6c8e2166bf137a280172d3.jpg",
+        "url": "https://www.youtube.com/channel/UCONoC_N5uhMiorZWmDQ2XRg/live"
       },
       {
         "name": "Canal Taronja Osona i Moianés",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Taronja-en-directo-Online.png",
+        "url": "https://ingest1-video.streaming-pro.com/videostream/ctvic/playlist.m3u8"
       },
       {
         "name": "Mataró Audiovisual",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://empreses.tecnocampus.cat/thumbs/679x413/upload/empresas/200-1-20200226130901.jpg",
+        "url": "https://mataroaudiovisual.alacarta.cat/directe"
       },
       {
         "name": "RTV Vilafranca",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2016/02/Penedes-TV.png",
+        "url": "https://www.rtvvilafranca.cat/penedes-televisio-en-directe/"
       },
       {
         "name": "TV De Girona",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://tvgirona.com/wp-content/uploads/2022/01/tvgirona_logo_HD-scaled.jpg",
+        "url": "http://ventdelnord.tv:8080/girona/directe.m3u8"
       },
       {
         "name": "RTV Cardedeu",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://rtvc.cat/wp-content/uploads/2020/06/LOGO_RTVC_WEB.png",
+        "url": "https://www.rtvc.cat/tele/"
       },
       {
         "name": "Canal 10 Empordà",
-        "cardImage": "",
-        "url": ""
-      },
-      {
-        "name": "TV del Ripollès",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "http://www.canal10.cat/img/logofacebook_400x400.jpg",
+        "url": "http://ventdelnord.tv:8080/escala/directe.m3u8"
       },
       {
         "name": "Mar TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/M2PZ45Z.jpg",
+        "url": "http://martv.tv/emissio-en-directe/"
       },
       {
         "name": "TV Sabadell Vallès",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/chnYI40.png",
+        "url": "https://tvsabadell-valles.cat/tv-sabadell-%C2%B7-valles-en-directe/"
       },
       {
         "name": "25 TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png",
+        "url": "https://www.25televisio.com/streaming.php"
       }
     ],
     "Madrid": [
