@@ -991,162 +991,198 @@
         "cardImage": "",
         "url": ""
       }
-    ],"Extremadura" :[
+    ],
+    "Extremadura": [
       {
         "name": "Canal Extremadura",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TV Extremeña",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal Extremadura",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Zafra TV",
         "cardImage": "",
         "url": ""
       }
-    ],"Galicia" :[
+    ],
+    "Galicia": [
       {
         "name": "TVG",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVG Xabarin",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVG Musigal",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVG Cultura",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVG Momentos G",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TVG Eventos",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Hermes TV",
         "cardImage": "",
         "url": ""
       }
-    ], "Islas Baleares": [
+    ],
+    "Islas Baleares": [
       {
         "name": "IB3 Global",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TEF",
         "cardImage": "",
         "url": ""
       }
-    ], "La Rioja": [
+    ],
+    "La Rioja": [
       {
         "name": "7 La Rioja",
         "cardImage": "",
         "url": ""
       }
-    ], "Melilla": [
+    ],
+    "Melilla": [
       {
         "name": "Melilla TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Popular TV Melilla",
         "cardImage": "",
         "url": ""
       }
-    ], "País Vasco": [
+    ],
+    "País Vasco": [
       {
         "name": "ETB 1",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "ETB 2",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "ETB Eventos 1",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "ETB Eventos 2",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "ETB Eventos 2",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Hamaika TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Tele 7",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Goiena Eus",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Durangaldeko TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Goierri Irrati TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "28 Kanala",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "TeleBilbao",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Erlo TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Oizmendi TV",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Urola TV",
         "cardImage": "",
         "url": ""
       }
-    ], "P. de Asturias": [
+    ],
+    "P. de Asturias": [
       {
         "name": "TPA7",
         "cardImage": "",
         "url": ""
       }
-    ], "R. de Murcia": [
+    ],
+    "R. de Murcia": [
       {
         "name": "7 R. de Murcia",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Tele 7",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 1 Mar Menor Torre Pacheco",
         "cardImage": "",
         "url": ""
-      },{
+      },
+      {
         "name": "Canal 6 Totana",
         "cardImage": "",
         "url": ""
