@@ -382,70 +382,70 @@
     "Aragón": [
       {
         "name": "Aragón TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1269029799890161664/YnMLSUTL_400x400.png",
+        "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
       },
       {
-        "name": "Canal 25 Basbastro TV",
-        "cardImage": "",
-        "url": ""
+        "name": "Canal 25 Barbastro TV",
+        "cardImage": "https://i.imgur.com/gjIK4D9.jpg",
+        "url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8"
       }
     ],
     "Canarias": [
       {
         "name": "La 1 Canarias",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/3ajw9Ah.jpg",
+        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
       },
       {
         "name": "La 2 Canarias",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
+        "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
       },
       {
         "name": "24H Canarias",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
+        "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8"
       },
       {
         "name": "Canal 4 Tenerife",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.canal4tenerife.tv/wp-content/uploads/2022/06/logo-nuevo-canal-4-tenerife-293x300.jpg",
+        "url": "https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8"
       },
       {
         "name": "Biosfera TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/03/biosfera-tv.png",
+        "url": "https://tvdatta.com:3785/live/biosferatvlive.m3u8"
       },
       {
         "name": "NORTEvision",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/NORTEvision.png",
+        "url": "http://amaru.dyndns.org:8870/0.m3u8"
       },
       {
         "name": "RTV Mogán",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/televisi%C3%B3n-mogan-en-directo.png",
+        "url": "https://cloudvideo.servers10.com:8081/8028/index.m3u8"
       },
       {
         "name": "Lancelot TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png",
+        "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
       },
       {
         "name": "Este Canal TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/estecanal.png",
+        "url": "ttp://www.estecanaltv.com/este-canal-en-directo/"
       },
       {
         "name": "Noroeste TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/Noroeste-TV-Canarias-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana.png",
+        "url": "https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8"
       },
       {
         "name": "Afortunadas TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://afortunadastv.com/wp-content/uploads/2022/02/wall-min.png",
+        "url": "https://cloudvideo.servers10.com:8081/8108/index.m3u8"
       }
     ],
     "Cantabria": [
