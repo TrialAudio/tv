@@ -450,138 +450,133 @@
     ],
     "Cantabria": [
       {
-        "name": "Cantabria TV",
-        "cardImage": "",
-        "url": ""
-      },
-      {
         "name": "Popular TV Cantabria",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://2.bp.blogspot.com/-ueJD7JgJjew/VXqRkQn4ZiI/AAAAAAAAA4I/oxRIxE-yW2U/s320/popular_cantabria.png",
+        "url": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8"
       }
     ],
     "Castilla La Mancha": [
       {
         "name": "Castilla La Mancha Media",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.cmmedia.es/wp-content/uploads/2016/09/EN-DIRECTO_FACEBOOK.jpg",
+        "url": "http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8"
       },
       {
         "name": "TV Hellin",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/tv-hell%C3%ADn.png",
+        "url": "https://hellin-hls-live.flumotion.com/playlist.m3u8"
       },
       {
         "name": "Guada TV Media",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/guadatv.png",
+        "url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
       },
       {
         "name": "Vision 6 TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1273918087465775105/8Rc1gPbK_400x400.jpg",
+        "url": "https://secure3.todostreaming.es/live/visionseis-livestream.m3u8"
       },
       {
         "name": "Imás TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/imastv.png",
+        "url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8"
       },
       {
         "name": "CanalImagen Almansa",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://almatelecom.es/wp-content/uploads/2017/09/cropped-logo-alma800px.png",
+        "url": "https://zonacliente.almatelecom.es/videos/canalimagen"
       },
       {
         "name": "InfoCanal Almansa",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1-300x116.png",
+        "url": "https://zonacliente.almatelecom.es/videos/infocanal"
       },
       {
         "name": "Alcarria TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/LfAhQ9X.jpg",
+        "url": "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8"
       },
       {
         "name": "Canal 4 Mancha Centro",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/canal-4-mancha-centro-en-directo.png",
+        "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
       },
       {
         "name": "TeleToledo",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/teletoledo.png",
+        "url": "https://cloud.streamingconnect.tv/hls/teletoledo/teletoledo.m3u8"
       }
     ],
     "Castilla y León": [
       {
         "name": "La 7",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/La-7-de-CyLTV.png",
+        "url": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8"
       },
       {
         "name": "La 8 Ávila",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/NxLkbzN.jpg",
+        "url": "https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Bierzo",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1366340931906129927/oz23MV5J_400x400.jpg",
+        "url": "https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Burgos",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/yJPNX7N.jpg",
+        "url": "https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 León",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_400x400.jpg",
+        "url": "https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Palencia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/0WJhhqM.jpg",
+        "url": "https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Salamanca",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/qtmzQee.jpg",
+        "url": "https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Segovia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/LBKgLZe.png",
+        "url": "https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Soria",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/uhgxgzO.jpg",
+        "url": "https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Valladolid",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/jmx9GJq.jpg",
+        "url": "https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "La 8 Zamora",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/8WJ3skc.jpg",
+        "url": "https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8"
       },
       {
         "name": "TV Benavente",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.tvbenavente.es/wp-content/uploads/2019/07/logo_tvbenavente.es_stick.png",
+        "url": "https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8"
       },
       {
         "name": "Canal 54",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/5rxlLEc.jpg",
+        "url": "https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com"
       },
       {
         "name": "TV Aranda",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/94BURC2.jpg",
+        "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
       }
     ],
     "Cataluña": [
