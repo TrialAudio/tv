@@ -764,362 +764,396 @@
     "Madrid": [
       {
         "name": "Telemadrid",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8"
       },
       {
         "name": "LAOTRA",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/La-Otra-en-directo.png",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8"
       },
       {
         "name": "WebCam OndaMadrid",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://asocama.es/wp-content/uploads/2021/06/onda-madrid.jpg",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8"
       },
       {
         "name": "Teleganés",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/Teleganes-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis.png",
+        "url": "https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8"
       },
       {
         "name": "Distrito TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png",
+        "url": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8"
       },
       {
         "name": "Déjate de Historias TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://dejatedehistorias.es/wp-content/uploads/2021/08/cropped-Mosca-Final-Dejate-de-Historias-TV-PNG.png",
+        "url": "https://www.youtube.com/channel/UChMCkc02GVSi89TrvhbRasA/live"
       },
       {
         "name": "Canal 33 Madrid",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG",
+        "url": "https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8"
       },
       {
         "name": "GCM TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/gcm.png",
+        "url": "https://cloud.streamingconnect.tv/hls/tbmadrid/tbmadrid.m3u8"
       },
       {
         "name": "Nesting TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/nestingtv.png",
+        "url": "https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_j5bz42qbg5s8.m3u8"
       },
       {
         "name": "Iberoamérica TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/874605774726672384/zGQG-yeY_400x400.jpg",
+        "url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
       }
     ],
     "Comunidad Foral de Navarra": [
       {
         "name": "Navarra TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_navarra_tv.jpg",
+        "url": "https://www.navarratelevision.es/Directo"
       },
       {
         "name": "TeleRibera",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/03/teleribera-en-directo.png",
+        "url": "http://37.187.7.106/teleribera/live.m3u8"
       },
       {
         "name": "Parlamento de Navarra",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.dyntra.org/new/wp-content/uploads/2017/05/parlamento-de-navarra.jpg",
+        "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      },
+      {
+        "name": "Xaloa Telebista",
+        "cardImage": "https://xaloatelebista.eus/wp-content/uploads/2020/10/xaloalogo1.jpg",
+        "url": "https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8"
       }
     ],
     "Comunidad Valenciana": [
       {
         "name": "À Punt",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+        "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8"
       },
       {
         "name": "7 TeleValencia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://7televalencia.com/wp-content/uploads/2017/03/televalencia.jpg",
+        "url": "https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8"
       },
       {
         "name": "Intercomarcal TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.intercomarcal.com/wp-content/uploads/2017/11/cropped-22219943_1586418514712544_8811518607023155052_o.jpg",
+        "url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8"
       },
       {
         "name": "TeleElx",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.gorilapp.com/uploads/images/proyectos/headers/gorilapp_proyectos_teleelx_header.png",
+        "url": "https://www.youtube.com/channel/UCTgvgkQPtXrKEDgI9zKEzHA/live"
       },
       {
         "name": "Ribera TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/04/Ribera-TV-en-directo.png",
+        "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
       },
       {
         "name": "8 La Marina TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.aesfas.org/wp-content/uploads/2019/03/LOGO_650x650_MARINATV.jpg",
+        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8"
+      },
+      {
+        "name": "La 8 Mediterráneo",
+        "cardImage": "https://sincroguia-tv.expansion.com/uploads/channels/logo-la-ocho-mediterraneo-832.jpg",
+        "url": "https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8"
+      },
+      {
+        "name": "Alacantí tv",
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/alacanti-tv-en-directo.png",
+        "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8"
       },
       {
         "name": "TV Castelló",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://tvcs.tv/wp-content/uploads/2022/07/TelevisoDeCastello.jpg",
+        "url": "https://player.twitch.tv/?channel=televisiodecastello&parent=tdtchannels.com&parent=www.tdtchannels.com"
       },
       {
         "name": "TV Artequatre",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/619F4iE.png",
+        "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8"
       },
       {
         "name": "12TV Alicante",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.12tv.es/wp-content/uploads/2014/02/logofin.png",
+        "url": "https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8"
+      },  
+      {
+        "name": "Levante TV",
+        "cardImage": "https://sincroguia-tv.expansion.com/uploads/images/l/e/v/levante-tv.jpg",
+        "url": "https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8"
       },
       {
         "name": "TV Vega Baja",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/EqT8Wit.png",
+        "url": "https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8"
       },
       {
         "name": "TV 4 Vall De Uxó",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2016/02/tv4.png",
+        "url": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8"
       },
       {
         "name": "Burriana TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/akUlmHA.png",
+        "url": "https://www.burrianateve.com/burrianateve-en-directe/"
       },
       {
         "name": "Telesafor",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg",
+        "url": "http://video.telesafor.com/hls/video.m3u8"
       },
       {
         "name": "Elche 7 TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_400x400.jpg",
+        "url": "https://elche7tv.gestec-video.com/hls/canal2.m3u8"
       },
       {
         "name": "Canal 56",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/a79PUqk.jpg",
+        "url": "https://videos.canal56.com/directe/stream/index.m3u8"
       },
       {
         "name": "Tevequatre TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://teve4.com/wp/wp-content/uploads/2020/01/logotipo-main-teve4.jpg",
+        "url": "https://live.yowi.tv/cd05f7e9533c73d701d0_teve4/index.m3u8"
       },
       {
         "name": "Maestrat TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/z8byzNp.jpg",
+        "url": "https://stream.maestrat.tv/hls/stream.m3u8"
       },
       {
         "name": "Univers TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/5g3o43L.png",
+        "url": "https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       },
       {
         "name": "TV Almanssora",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.tvalmassora.com/wp-content/uploads/2019/11/logo-tvalmassora-Sticky.png",
+        "url": "https://live.fullsport.es/hls/tva_src/index.m3u8"
       },
       {
         "name": "Onda 15 TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/Onda-15-TV-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis.png",
+        "url": "https://onda15.es"
       },
       {
         "name": "Canal 3 Biar",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/1bPC0P5.jpg",
+        "url": "http://217.76.154.142:8080/hls/canal3.m3u8"
       },
       {
         "name": "Ràdio Bocairent TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://clubbersradio.es/template/images/radios/radio-bocairent.png",
+        "url": "http://185.81.77.4/BocairentTV/index.m3u8"
       },
       {
-        "name": "Punt 3 Vall Uixó",
-        "cardImage": "",
-        "url": ""
+        "name": "Punt 3 Vall D'Uixó",
+        "cardImage": "https://iteleflix.com/archivos/Logo-Punt-3-Vall-Uixo.jpeg",
+        "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8"
       },
       {
         "name": "El Toro Valencia TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://video3.lhdserver.es/player/eltorovalencia/poster.png",
+        "url": "https://video3.lhdserver.es/eltorovalencia/live.m3u8"
       },
       {
-        "name": "Ciudades dek Ocio TV",
-        "cardImage": "",
-        "url": ""
+        "name": "Ciudades del Ocio TV",
+        "cardImage": "http://elmurcielago.es/images/banners/Ciudades_Del_Ocio_TV.png",
+        "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
       },
       {
         "name": "Onda Valencia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/Onda-Valencia-TV.png",
+        "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
       }
     ],"Extremadura" :[
       {
         "name": "Canal Extremadura",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png",
+        "url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8"
       },{
         "name": "TV Extremeña",
-        "cardImage": "",
-        "url": ""
-      },{
-        "name": "Canal Extremadura",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/6gIb1u0.jpg",
+        "url": "https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com"
       },{
         "name": "Zafra TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.radiotvzafra.es/images/2020/11/09/zafra-tv-logo.png",
+        "url": "https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8"
       }
     ],"Galicia" :[
       {
         "name": "TVG",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/M6j6E9w.png",
+        "url": "https://europa-crtvg.flumotion.com/playlist.m3u8"
+      },{
+        "name": "TVG 2",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/t/v/g/xtvgalicia2.jpg.pagespeed.ic.3djIPVai_C.jpg",
+        "url": "https://amodino-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Xabarin",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "http://www.crtvg.es/files/web/20170619205043_CanalInfantil.png",
+        "url": "https://infantil-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Musigal",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/MUSIGAL.png",
+        "url": "https://musigal-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Cultura",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.crtvg.es/files/web/DiarioCUlturalCORDEFINITIVABANDAAZULABAIXO.png",
+        "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Momentos G",
-        "cardImage": "",
-        "url": ""
-      },{
-        "name": "TVG Eventos",
-        "cardImage": "",
-        "url": ""
-      },{
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/MOMENTOS-G.png",
+        "url": "https://momentog-crtvg.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "TVG Eventos 1",
+        "cardImage": "https://www.crtvg.es/files/web/EVENTOSG.png",
+        "url": "https://events1-crtvg.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "TVG Eventos 2",
+        "cardImage": "https://www.crtvg.es/files/web/EVENTOSG.png",
+        "url": "https://events2-crtvg.flumotion.com/playlist.m3u8"
+      },      
+      {
+        "name": "TVG Eventos 3",
+        "cardImage": "https://www.crtvg.es/files/web/EVENTOSG.png",
+        "url": "https://events3-crtvg.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "TeleVigo",
+        "cardImage": "https://i.imgur.com/D7SSkeR.png",
+        "url": "https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8"
+      },
+      {
         "name": "Hermes TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2020/09/Hermes-TV.png",
+        "url": "https://www.youtube.com/channel/UCv_HqaMNADVSi7A3jLrVPsA/live"
       }
     ], "Islas Baleares": [
       {
         "name": "IB3 Global",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png",
+        "url": "https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live"
       },{
         "name": "TEF",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/UB7K59o.png",
+        "url": "https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8"
       }
     ], "La Rioja": [
       {
+        "name": "TV La Rioja",
+        "cardImage": "https://static.larioja.com/squido/latest/assets/images/placeholders/tvr-placeholder.png",
+        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
+      },      
+      {
         "name": "7 La Rioja",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1314178150398652417/8RLH7J1__400x400.png",
+        "url": "https://www.7rioja.tv/Directo"
       }
     ], "Melilla": [
       {
         "name": "Melilla TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2016/02/TV-Melilla-en-directo-Online.png",
+        "url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8"
       },{
         "name": "Popular TV Melilla",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/1269158662444060673/z6oX-wsR_400x400.jpg",
+        "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
       }
     ], "País Vasco": [
       {
         "name": "ETB 1",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/cUs0Rgm.png",
+        "url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
       },{
         "name": "ETB 2",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",
+        "url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
       },{
-        "name": "ETB Eventos 1",
-        "cardImage": "",
-        "url": ""
-      },{
-        "name": "ETB Eventos 2",
-        "cardImage": "",
-        "url": ""
-      },{
-        "name": "ETB Eventos 2",
-        "cardImage": "",
-        "url": ""
+        "name": "EITB",
+        "cardImage": "https://images11.eitb.eus/multimedia/images/2013/02/19/1048246/eitb_logo_foto610x342.jpg",
+        "url": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8"
       },{
         "name": "Hamaika TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/hamaika.png",
+        "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
       },{
         "name": "Tele 7",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://tele7.tv/wp-content/uploads/2018/12/tele7-l.png",
+        "url": "https://vdo.panelstreaming.live:3736/live/tele7live.m3u8"
       },{
         "name": "Goiena Eus",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://iteleflix.com/archivos/Logo-Goiena-TB.png",
+        "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
       },{
         "name": "Durangaldeko TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/2xgWWXW.png",
+        "url": "https://live.yowi.tv/002c3bb235962b8f1b16/master.m3u8"
       },{
         "name": "Goierri Irrati TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.coolstreaming.us/img/ch/image10546747362.jpg",
+        "url": "https://5940924978228.streamlock.net/8155/8155/playlist.m3u8"
       },{
         "name": "28 Kanala",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.amezketa.eus/wp-content/uploads/2022/04/28kanala-lr.jpg",
+        "url": "https://5940924978228.streamlock.net/8157/8157/master.m3u8"
       },{
         "name": "TeleBilbao",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://www.otxarkoaga.org/wp-content/uploads/2021/03/telebilbao-en-directo.png",
+        "url": "https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8"
       },{
         "name": "Erlo TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/03/erlo-tv.png",
+        "url": "https://5940924978228.streamlock.net/8159/8159/master.m3u8"
       },{
         "name": "Oizmendi TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://pbs.twimg.com/profile_images/653896397264191492/NDTWY4rJ_400x400.png",
+        "url": "https://5940924978228.streamlock.net/8161/8161/master.m3u8"
       },{
         "name": "Urola TV",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/03/urola-telebista.png",
+        "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
       }
     ], "P. de Asturias": [
       {
-        "name": "TPA7",
-        "cardImage": "",
-        "url": ""
+        "name": "RTPA",
+        "cardImage": "https://co.radio.net/images/broadcasts/c7/b2/41224/1/c300.png",
+        "url": "https://www.rtpa.es/tpa-television"
       }
     ], "R. de Murcia": [
       {
         "name": "7 R. de Murcia",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://comprometidos7tv.es/wp-content/uploads/2019/10/LOGO_7TV-blanco.png",
+        "url": "https://obelix.nopiensomas.com/stream/abr/first.m3u8"
       },{
-        "name": "Tele 7",
-        "cardImage": "",
-        "url": ""
+        "name": "Popular TV Murcia",
+        "cardImage": "https://diretele.com/wp-content/uploads/2018/09/POPULAR-TV-MURCIA.png",
+        "url": "https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8"
       },{
         "name": "Canal 1 Mar Menor Torre Pacheco",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://miguel.tuwebtv.es/images/canal_1.png",
+        "url": "https://directo.tuwebtv.es/canal1.m3u8"
       },{
         "name": "Canal 6 Totana",
-        "cardImage": "",
-        "url": ""
+        "cardImage": "https://i.imgur.com/0O5rV9J.jpg",
+        "url": "https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live"
       }
     ]
   }
