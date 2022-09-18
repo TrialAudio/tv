@@ -370,12 +370,12 @@
       },
       {
         "name": "Onda Cádiz 24H",
-        "cardImage": "https://ondacadiz.es/sites/default/files/programas-tv/imagenes/logo_onda_cadiz_0.png",
+        "cardImage": "https://www.donasport.com/slike/onda-cadiz-tv-spain.jpg",
         "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
       },
       {
         "name": "Parlamento de Andalucía",
-        "cardImage": "https://www.faisem.es/wp-content/uploads/2020/10/Imagen-parlamento.jpg",
+        "cardImage": "https://i.imgur.com/krti3nb.jpg",
         "url": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
       }
     ],
