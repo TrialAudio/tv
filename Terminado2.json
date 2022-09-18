@@ -234,8 +234,8 @@
         "url": "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
       },
       {
-        "name": "Telecija",
-        "cardImage": "",
+        "name": "Telécija",
+        "cardImage": "https://i.imgur.com/M2TyENQ.jpg",
         "url": "https://player.twitch.tv/?channel=telecija&parent=tdtchannels.com&parent=www.tdtchannels.com"
       },
       {
