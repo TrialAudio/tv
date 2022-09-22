@@ -938,12 +938,12 @@
       },
       {
         "name": "Univers TV",
-        "cardImage": "https://i.imgur.com/5g3o43L.png",
+        "cardImage": "https://i.imgur.com/KRgHDL5.jpg",
         "url": "https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
       },
       {
         "name": "TV Almanssora",
-        "cardImage": "https://www.tvalmassora.com/wp-content/uploads/2019/11/logo-tvalmassora-Sticky.png",
+        "cardImage": "https://i.imgur.com/jmj23G2.jpg",
         "url": "https://live.fullsport.es/hls/tva_src/index.m3u8"
       },
       {
@@ -953,7 +953,7 @@
       },
       {
         "name": "Canal 3 Biar",
-        "cardImage": "https://i.imgur.com/1bPC0P5.jpg",
+        "cardImage": "https://i.imgur.com/hoXh6fE.jpg",
         "url": "http://217.76.154.142:8080/hls/canal3.m3u8"
       },
       {
@@ -963,7 +963,7 @@
       },
       {
         "name": "Punt 3 Vall D'Uixó",
-        "cardImage": "https://iteleflix.com/archivos/Logo-Punt-3-Vall-Uixo.jpeg",
+        "cardImage": "https://i.imgur.com/1VP4rbi.jpg",
         "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8"
       },
       {
@@ -973,7 +973,7 @@
       },
       {
         "name": "Ciudades del Ocio TV",
-        "cardImage": "http://elmurcielago.es/images/banners/Ciudades_Del_Ocio_TV.png",
+        "cardImage": "https://i.imgur.com/9jeIGA0.jpg",
         "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
       },
       {
@@ -984,7 +984,7 @@
     ],"Extremadura" :[
       {
         "name": "Canal Extremadura",
-        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png",
+        "cardImage": "https://i.imgur.com/c0hjL86.jpg",
         "url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8"
       },{
         "name": "TV Extremeña",
@@ -992,13 +992,13 @@
         "url": "https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com"
       },{
         "name": "Zafra TV",
-        "cardImage": "https://www.radiotvzafra.es/images/2020/11/09/zafra-tv-logo.png",
+        "cardImage": "https://i.imgur.com/PGN9g1h.jpg",
         "url": "https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8"
       }
     ],"Galicia" :[
       {
         "name": "TVG",
-        "cardImage": "https://i.imgur.com/M6j6E9w.png",
+        "cardImage": "https://i.imgur.com/0JVFvm7.jpg",
         "url": "https://europa-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG 2",
@@ -1014,7 +1014,7 @@
         "url": "https://musigal-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Cultura",
-        "cardImage": "https://www.crtvg.es/files/web/DiarioCUlturalCORDEFINITIVABANDAAZULABAIXO.png",
+        "cardImage": "https://i.imgur.com/lDGRFLQ.jpg",
         "url": "https://cultural-crtvg.flumotion.com/playlist.m3u8"
       },{
         "name": "TVG Momentos G",
@@ -1038,7 +1038,7 @@
       },
       {
         "name": "TeleVigo",
-        "cardImage": "https://i.imgur.com/D7SSkeR.png",
+        "cardImage": "https://i.imgur.com/PRQUUG6.jpg",
         "url": "https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8"
       },
       {
