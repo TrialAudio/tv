@@ -826,24 +826,24 @@
       },
       {
         "name": "Parlamento de Navarra",
-        "cardImage": "https://www.dyntra.org/new/wp-content/uploads/2017/05/parlamento-de-navarra.jpg",
+        "cardImage": "https://i.imgur.com/TiJbjDb.jpg",
         "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
       },
       {
         "name": "Xaloa Telebista",
-        "cardImage": "https://xaloatelebista.eus/wp-content/uploads/2020/10/xaloalogo1.jpg",
+        "cardImage": "https://i.imgur.com/pHCuV8M.jpg",
         "url": "https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8"
       }
     ],
     "Comunidad Valenciana": [
       {
         "name": "À Punt",
-        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+        "cardImage": "https://i.imgur.com/MMUVxjH.jpg",
         "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8"
       },
       {
         "name": "7 TeleValencia",
-        "cardImage": "https://7televalencia.com/wp-content/uploads/2017/03/televalencia.jpg",
+        "cardImage": "https://i.imgur.com/prEPomk.jpg",
         "url": "https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8"
       },
       {
@@ -888,7 +888,7 @@
       },
       {
         "name": "12TV Alicante",
-        "cardImage": "https://www.12tv.es/wp-content/uploads/2014/02/logofin.png",
+        "cardImage": "https://i.imgur.com/PuHG7U5.jpg",
         "url": "https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8"
       },  
       {
