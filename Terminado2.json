@@ -1049,11 +1049,11 @@
     ], "Islas Baleares": [
       {
         "name": "IB3 Global",
-        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png",
+        "cardImage": "https://i.imgur.com/y71cBJR.jpg",
         "url": "https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live"
       },{
         "name": "TEF",
-        "cardImage": "https://i.imgur.com/UB7K59o.png",
+        "cardImage": "https://i.imgur.com/4shN0EJ.jpg",
         "url": "https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8"
       }
     ], "La Rioja": [
@@ -1064,7 +1064,7 @@
       },      
       {
         "name": "7 La Rioja",
-        "cardImage": "https://pbs.twimg.com/profile_images/1314178150398652417/8RLH7J1__400x400.png",
+        "cardImage": "https://i.imgur.com/9L1BU1K.jpg",
         "url": "https://www.7rioja.tv/Directo"
       }
     ], "Melilla": [
@@ -1074,21 +1074,21 @@
         "url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8"
       },{
         "name": "Popular TV Melilla",
-        "cardImage": "https://pbs.twimg.com/profile_images/1269158662444060673/z6oX-wsR_400x400.jpg",
+        "cardImage": "https://i.imgur.com/54NhjB8.jpg",
         "url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
       }
     ], "País Vasco": [
       {
         "name": "ETB 1",
-        "cardImage": "https://i.imgur.com/cUs0Rgm.png",
+        "cardImage": "https://i.imgur.com/huwKrSu.jpg",
         "url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
       },{
         "name": "ETB 2",
-        "cardImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",
+        "cardImage": "https://i.imgur.com/DuR1Yi5.jpg",
         "url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
       },{
         "name": "EITB",
-        "cardImage": "https://images11.eitb.eus/multimedia/images/2013/02/19/1048246/eitb_logo_foto610x342.jpg",
+        "cardImage": "https://i.imgur.com/STaHMjK.jpg",
         "url": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8"
       },{
         "name": "Hamaika TV",
@@ -1104,7 +1104,7 @@
         "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
       },{
         "name": "Durangaldeko TV",
-        "cardImage": "https://i.imgur.com/2xgWWXW.png",
+        "cardImage": "https://i.imgur.com/44a67NU.jpg",
         "url": "https://live.yowi.tv/002c3bb235962b8f1b16/master.m3u8"
       },{
         "name": "Goierri Irrati TV",
@@ -1112,7 +1112,7 @@
         "url": "https://5940924978228.streamlock.net/8155/8155/playlist.m3u8"
       },{
         "name": "28 Kanala",
-        "cardImage": "https://www.amezketa.eus/wp-content/uploads/2022/04/28kanala-lr.jpg",
+        "cardImage": "https://i.imgur.com/R745UmJ.jpg",
         "url": "https://5940924978228.streamlock.net/8157/8157/master.m3u8"
       },{
         "name": "TeleBilbao",
@@ -1140,7 +1140,7 @@
     ], "R. de Murcia": [
       {
         "name": "7 R. de Murcia",
-        "cardImage": "https://comprometidos7tv.es/wp-content/uploads/2019/10/LOGO_7TV-blanco.png",
+        "cardImage": "https://i.imgur.com/n8rZ7DX.jpg",
         "url": "https://obelix.nopiensomas.com/stream/abr/first.m3u8"
       },{
         "name": "Popular TV Murcia",
@@ -1148,11 +1148,11 @@
         "url": "https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8"
       },{
         "name": "Canal 1 Mar Menor Torre Pacheco",
-        "cardImage": "https://miguel.tuwebtv.es/images/canal_1.png",
+        "cardImage": "https://i.imgur.com/QdJUA5R.jpg",
         "url": "https://directo.tuwebtv.es/canal1.m3u8"
       },{
         "name": "Canal 6 Totana",
-        "cardImage": "https://i.imgur.com/0O5rV9J.jpg",
+        "cardImage": "https://i.imgur.com/0zuU1LL.jpg",
         "url": "https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live"
       }
     ]
