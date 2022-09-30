@@ -3,31 +3,58 @@
 	  "__formula1": "https://i.imgur.com/F4Ocd36.jpg",
 	  "__laLiga": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
 	  "__laLigaBar": "https://laligatvbar.es/meta-image.jpg",
-	  "__laLigadeCampeones": "https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg",
 	  "__ligaCampeones": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
 	  "__laLiga1": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
 	  "__laLiga2": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
 	  "__laLiga3": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__laLiga4": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__ligaCampeones1": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__ligaCampeones2": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__ligaCampeones3": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__ligaCampeones4": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__ligaCampeones5": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+	  "__daznLaLiga": "https://i.imgur.com/kykZcTh.jpg",
+	  "__vamos": "https://i.imgur.com/9UhFRtT.jpg",
+	  "__eurosport1": "https://i.imgur.com/JlVryWp.jpg",
+	  "__eurosport2": "https://i.imgur.com/IvTIOj7.jpg",
+	  "__movistarDeportes": "https://i1.sndcdn.com/avatars-000712976110-cgdzcv-t500x500.jpg",
+	  "__deportes1": "https://i.imgur.com/uLpGYmX.jpg",
+	  "__deportes2": "https://i.imgur.com/0eCEwqS.jpg",
+	  "__deportes3": "https://i.imgur.com/Eir3WyD.jpg",
+	  "__deportes4": "https://i.imgur.com/pX2FLZq.jpg",
+	  "__dazn2": "https://i.imgur.com/s0Gc4to.jpg",
+	  "__dazn3": "https://i.imgur.com/Kd3lSlZ.jpg",
+	  "__dazn4": "https://i.imgur.com/2cNl2iG.jpg",
 	  
     "FUTBOL": [
       {
-        "name": "",
-        "cardImage": "",
-        "url": "acestream://"
+        "name": "LIGA DE CAMPEONES",
+        "cardImage": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
+        "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b"
+      }, 
+	  {
+        "name": "LA LIGA",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888"
       }
     ],
     "FORMULA 1": [
       {
-        "name": "",
-        "cardImage": "",
-        "url": ""
+        "name": "F1",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://c372020ed2744033f56548b6beb11a9f3e740f37"
+      },
+	  {
+        "name": "F1",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2"
       }
     ],
     "DEPORTES": [
       {
-        "name": "",
-        "cardImage": "",
-        "url": ""
+        "name": "DEPORTES",
+        "cardImage": "https://i1.sndcdn.com/avatars-000712976110-cgdzcv-t500x500.jpg",
+        "url": "acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486"
       }
     ]
   }
