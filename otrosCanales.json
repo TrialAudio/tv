@@ -6,13 +6,37 @@
         "cardImage": "https://www.socialcreator.com/srv/imgs/html/154415/meta-image.jpg",
         "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b"
       },{
-        "name": "LA LIGA",
+        "name": "LA LIGA 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
         "url": "acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a"
       },{
-        "name": "DAZN LA LIGA",
+        "name": "LA LIGA 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888"
+      },{
+        "name": "LA LIGA 720",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://df139bbcd7ae6825b46d5955c52d639f1215346a"
+      },{
+        "name": "LA LIGA 2 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://4229d640fecf3c0897674241bcf851b67f4310e3"
+      },{
+        "name": "LA LIGA 2 720",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://a92af592ba7f8f2f087ee34b91662db47705ca52"
+      },{
+        "name": "DAZN LA LIGA 1080",
         "cardImage": "https://i.imgur.com/kykZcTh.jpg",
         "url": "acestream://df98650743f24a245c44cdf2851e57078f4c487a"
+      },{
+        "name": "DAZN LA LIGA 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6"
+      },{
+        "name": "DAZN LA LIGA 720",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce"
       }
     ],
     "FORMULA 1": [
