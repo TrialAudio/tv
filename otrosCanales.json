@@ -2,6 +2,14 @@
   {
     "FUTBOL": [
      {
+        "name": "LIGA TV BAR 1080",
+        "cardImage": "https://laligatvbar.es/meta-image.jpg",
+        "url": "acestream://01b333b9369c662775902638ef8cffac346a0f61"
+      },{
+        "name": "LIGA TV BAR 720",
+        "cardImage": "https://laligatvbar.es/meta-image.jpg",
+        "url": "acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260"
+      },{
         "name": "LIGA DE CAMPEONES",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b"
@@ -26,13 +34,17 @@
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
         "url": "acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888"
       },{
+        "name": "LA LIGA 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175"
+      },{
+        "name": "LA LIGA 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://4229d640fecf3c0897674241bcf851b67f4310e3"
+      },{
         "name": "LA LIGA 720",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
         "url": "acestream://df139bbcd7ae6825b46d5955c52d639f1215346a"
-      },{
-        "name": "LA LIGA 2 1080",
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://4229d640fecf3c0897674241bcf851b67f4310e3"
       },{
         "name": "LA LIGA 2 720",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
