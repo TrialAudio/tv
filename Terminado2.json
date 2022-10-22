@@ -184,11 +184,6 @@
         "url": "https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8"
       },
       {
-        "name": "Uvitel TV",
-        "cardImage": "https://i.imgur.com/CXi6svm.jpg",
-        "url": "https://www.uvitel.tv/directo/"
-      },
-      {
         "name": "Interalmería TV",
         "cardImage": "https://i.imgur.com/dEKRI75.jpg",
         "url": "https://interalmeria.tv/directo/live.m3u8"
@@ -236,7 +231,7 @@
       {
         "name": "Telécija",
         "cardImage": "https://i.imgur.com/M2TyENQ.jpg",
-        "url": "https://player.twitch.tv/?channel=telecija&parent=tdtchannels.com&parent=www.tdtchannels.com"
+        "url": "https://www.twitch.tv/telecija"
       },
       {
         "name": "Écija Comarca TV",
@@ -256,7 +251,7 @@
       {
         "name": "TeleQuivir",
         "cardImage": "https://pbs.twimg.com/profile_images/842853567488757761/ZnAYTC33_400x400.jpg",
-        "url": "https://player.twitch.tv/?channel=telequivir&parent=tdtchannels.com&parent=www.tdtchannels.com"
+        "url": "https://www.twitch.tv/telequivir"
       },
       {
         "name": "Telemotril",
@@ -282,11 +277,6 @@
         "name": "101 TV Antequera",
         "cardImage": "https://i.imgur.com/uEXUBeY.jpg",
         "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8"
-      },
-      {
-        "name": "8TV Jerez",
-        "cardImage": "https://i.imgur.com/74wuJMf.jpg",
-        "url": "https://cloudvideo.servers10.com:8081/8164/index.m3u8"
       },
       {
         "name": "Sal TV",
