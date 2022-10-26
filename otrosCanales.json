@@ -1,7 +1,11 @@
 [
   {
-    "FUTBOL": [
+    "FUTBOL": [ 
      {
+        "name": "LIGA DE CAMPEONES 2",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28"
+      },{
         "name": "LIGA TV BAR 1080",
         "cardImage": "https://laligatvbar.es/meta-image.jpg",
         "url": "acestream://01b333b9369c662775902638ef8cffac346a0f61"
