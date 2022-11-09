@@ -87,7 +87,7 @@
         "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
       },
       {
-        "name": "Gol TV",
+        "name": "Gol TV Proximamente",
         "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
         "url": "https://www.goltelevision.com/en-directo"
       },
@@ -100,6 +100,273 @@
         "name": "24h",
         "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+      },
+      {
+        "name": "DKISS",
+        "cardImage": "https://www.dkiss.es/wp-content/uploads/dkiss.png",
+        "url": "http://242449301874267959.nicehos.xyz:80/S3BKFNQKR8/0789182787/267959"
+      }
+    ],
+    "Andalucía": [
+      {
+        "name": "Canal Sur Andalucía",
+        "cardImage": "https://1.bp.blogspot.com/-hncpcXgiS7o/XhzEttGjvRI/AAAAAAAA5RQ/nvQD8j5YMp0MxrOmWX_uf-9R3zpoPWHOgCLcBGAsYHQ/s1600/canal-sur-addon-kodi.png",
+        "url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8"
+      },
+      {
+        "name": "Canal Sur 2 Andalucía",
+        "cardImage": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2012/09/canal_sur2.jpg",
+        "url": "http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8"
+      },
+      {
+        "name": "101 Málaga",
+        "cardImage": "https://i.imgur.com/fEeLyyF.jpg",
+        "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8"
+      },
+      {
+        "name": "Mijas 3.40 TV",
+        "cardImage": "https://i.imgur.com/xvf0SVi.png",
+        "url": "https://mijascomunicacion.com/mijas-340-tv-en-directo/"
+      },
+      {
+        "name": "Onda Cádiz",
+        "cardImage": "https://www.donasport.com/slike/onda-cadiz-tv-spain.jpg",
+        "url": "https://adc-hls.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "M95 Marbella",
+        "cardImage": "https://i.imgur.com/F3tsJJm.jpg",
+        "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+      },
+      {
+        "name": "Huelva TV",
+        "cardImage": "http://huelvatv.com/wp-content/uploads/2016/02/GALAS-OK.jpg",
+        "url": "https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8"
+      },
+      {
+        "name": "Canal Sierra de Cádiz",
+        "cardImage": "https://i.imgur.com/RoJEqZM.png",
+        "url": "http://217.125.136.93:8080/canalsierradecadiz1080.m3u8"
+      },
+      {
+        "name": "Canal 45 TV",
+        "cardImage": "https://i.imgur.com/CJpWhr7.jpg",
+        "url": "http://www.canal45tv.com"
+      },
+      {
+        "name": "PTV Málaga",
+        "cardImage": "https://i.imgur.com/KtnOWYt.png",
+        "url": "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
+      },
+      {
+        "name": "Córdoba TV",
+        "cardImage": "https://i.imgur.com/fBydGC8.jpg",
+        "url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
+      },
+      {
+        "name": "Costa Noroeste TV",
+        "cardImage": "https://i.imgur.com/7NHx1Gg.jpg",
+        "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+      },
+      {
+        "name": "Teleonuba",
+        "cardImage": "https://i.imgur.com/sfGcyBu.png",
+        "url": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8"
+      },
+      {
+        "name": "Condavisión",
+        "cardImage": "https://i.imgur.com/PNCF9ei.jpg",
+        "url": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
+      },
+      {
+        "name": "CanalCosta",
+        "cardImage": "https://i.imgur.com/2bP6eXP.png",
+        "url": "https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8"
+      },
+      {
+        "name": "Interalmería TV",
+        "cardImage": "https://i.imgur.com/dEKRI75.jpg",
+        "url": "https://interalmeria.tv/directo/live.m3u8"
+      },
+      {
+        "name": "Tuya la Janda TV",
+        "cardImage": "https://i.imgur.com/1LbnTFt.png",
+        "url": "https://cloudvideo.servers10.com:8081/8144/index.m3u8"
+      },
+      {
+        "name": "TV Centro Andalucía",
+        "cardImage": "https://i.imgur.com/gGzjNaN.jpg",
+        "url": "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8"
+      },
+      {
+        "name": "Canal San Roque",
+        "cardImage": "https://i.imgur.com/WOqq09A.png",
+        "url": "https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8"
+      },
+      {
+        "name": "Onda Algeciras TV",
+        "cardImage": "https://i.imgur.com/R7iuTci.png",
+        "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+      },
+      {
+        "name": "Estepona TV",
+        "cardImage": "https://i.imgur.com/4byXKPs.png",
+        "url": "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
+      },
+            {
+        "name": "Canal Doñana",
+        "cardImage": "https://diretele.com/wp-content/uploads/2019/03/canal-do%C3%B1ana-en-directo.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8"
+      },
+      {
+        "name": "Axarquía TV Proximamente",
+        "cardImage": "https://pbs.twimg.com/profile_images/823213072428965888/9p5J2DOR_400x400.jpg",
+        "url": "https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live"
+      },
+      {
+        "name": "PTV Linares",
+        "cardImage": "https://pbs.twimg.com/profile_images/1501333565220524035/1NeY_yHK_400x400.jpg",
+        "url": "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
+      },
+      {
+        "name": "Telécija",
+        "cardImage": "https://i.imgur.com/M2TyENQ.jpg",
+        "url": "https://www.twitch.tv/telecija"
+      },
+      {
+        "name": "Écija Comarca TV Proximamente",
+        "cardImage": "https://i.imgur.com/cQKDOtW.jpg",
+        "url": "https://www.youtube.com/channel/UCjY4stPNeDHD8IMq4ltMYGg/live"
+      },
+      {
+        "name": "Málaga 24h TV Proximamente",
+        "cardImage": "https://pbs.twimg.com/profile_images/834359999371603968/LxxCVoSo_400x400.jpg",
+        "url": "https://www.youtube.com/channel/UCoMWImnPAur6JhXDK63dpAg/live"
+      },
+      {
+        "name": "Torrevisión",
+        "cardImage": "https://alhaurindelatorre.es/wp-content/uploads/2021/04/logo_torrevision.jpg",
+        "url": "https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8"
+      },
+      {
+        "name": "TeleQuivir",
+        "cardImage": "https://pbs.twimg.com/profile_images/842853567488757761/ZnAYTC33_400x400.jpg",
+        "url": "https://www.twitch.tv/telequivir"
+      },
+      {
+        "name": "Telemotril",
+        "cardImage": "https://i.imgur.com/6dlMutm.png",
+        "url": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+      },
+      {
+        "name": "Diez TV",
+        "cardImage": "https://i.imgur.com/Hhuc1cV.jpg",
+        "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+      },
+      {
+        "name": "CostadelSol TV",
+        "cardImage": "https://acebbenalmadena.es/wp-content/uploads/74-1-1.jpg",
+        "url": "https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8"
+      },
+      {
+        "name": "Bailén TV",
+        "cardImage": "https://i.imgur.com/uzrQYUj.jpg",
+        "url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8"
+      },
+      {
+        "name": "101 TV Antequera",
+        "cardImage": "https://i.imgur.com/uEXUBeY.jpg",
+        "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8"
+      },
+      {
+        "name": "Sal TV",
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2020/03/SalTV-en-directo-Online.png",
+        "url": "https://cloudvideo.servers10.com:8081/8182/index.m3u8"
+      },
+      {
+        "name": "9 La Loma TV",
+        "cardImage": "https://i.imgur.com/yPfRXF7.jpg",
+        "url": "https://9laloma.tv/live.m3u8"
+      },
+      {
+        "name": "Vivamóvil TV",
+        "cardImage": "https://i.imgur.com/kyJZzVb.png",
+        "url": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8"
+      },
+      {
+        "name": "TV Carmona Proximamente",
+        "cardImage": "https://i.imgur.com/NLue2Q5.jpg",
+        "url": "https://www.youtube.com/channel/UC_FCG-Dn0LUaUjz06IqwHwA/live"
+      },
+      {
+        "name": "Canal Málaga",
+        "cardImage": "https://pbs.twimg.com/profile_images/1513439655080910848/peM0rhBi_400x400.jpg",
+        "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+      },
+      {
+        "name": "101 TV Axarquia",
+        "cardImage": "https://i.imgur.com/QY1WC4Y.jpg",
+        "url": "https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8"
+      },
+      {
+        "name": "PTV Granada",
+        "cardImage": "https://www.ptvtelecom.com/wp-content/uploads/canales/ptvgranada.png",
+        "url": "https://streamer.zapitv.com/PTV-granada/index.m3u8"
+      },
+      {
+        "name": "TeleGilena",
+        "cardImage": "https://pbs.twimg.com/profile_images/1538928301368086529/qT0GQolh_400x400.jpg",
+        "url": "https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8"
+      },
+      {
+        "name": "Fuengirola TV",
+        "cardImage": "https://media.fuengirolatv.com/img/patalla%20streaming.png",
+        "url": "https://secure.todostreaming.es/live/nerja-livestream.m3u8"
+      },
+      {
+        "name": "Islatel",
+        "cardImage": "https://i.imgur.com/eq5kGsS.png",
+        "url": "https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8"
+      },
+      {
+        "name": "PTV Sevilla",
+        "cardImage": "https://pbs.twimg.com/profile_images/1501478081051213825/XtkAxEQr_400x400.jpg",
+        "url": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+      },
+      {
+        "name": "PTV Córdoba",
+        "cardImage": "https://i.imgur.com/ymX5G8O.jpg",
+        "url": "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
+      },
+      {
+        "name": "Canal Coín",
+        "cardImage": "https://directostv.teleame.com/wp-content/uploads/2018/02/canal-coin.png",
+        "url": "https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8"
+      },
+      {
+        "name": "TVM Córdoba",
+        "cardImage": "https://i.imgur.com/0wmICcL.jpg",
+        "url": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
+      },
+      {
+        "name": "Cancionero TV",
+        "cardImage": "https://www.mundoplus.tv/wiki/_media/logos/cancionero.png",
+        "url": "http://89.140.229.4/hls1/cancionero.m3u8"
+      },
+      {
+        "name": "La Fábrica TV",
+        "cardImage": "https://i.imgur.com/GQ5ZFsr.jpg",
+        "url": "https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8"
+      },
+      {
+        "name": "Onda Cádiz 24H",
+        "cardImage": "https://www.donasport.com/slike/onda-cadiz-tv-spain.jpg",
+        "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+      },
+      {
+        "name": "Parlamento de Andalucía",
+        "cardImage": "https://i.imgur.com/krti3nb.jpg",
+        "url": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
       }
     ]
   }
