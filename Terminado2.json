@@ -87,7 +87,7 @@
         "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
       },
       {
-        "name": "Gol TV",
+        "name": "Gol TV Proximamente",
         "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
         "url": "https://www.goltelevision.com/en-directo"
       },
@@ -219,7 +219,7 @@
         "url": "https://secure5.todostreaming.es/live/division-alm.m3u8"
       },
       {
-        "name": "Axarquía TV",
+        "name": "Axarquía TV Proximamente",
         "cardImage": "https://pbs.twimg.com/profile_images/823213072428965888/9p5J2DOR_400x400.jpg",
         "url": "https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live"
       },
@@ -234,12 +234,12 @@
         "url": "https://www.twitch.tv/telecija"
       },
       {
-        "name": "Écija Comarca TV",
+        "name": "Écija Comarca TV Proximamente",
         "cardImage": "https://i.imgur.com/cQKDOtW.jpg",
         "url": "https://www.youtube.com/channel/UCjY4stPNeDHD8IMq4ltMYGg/live"
       },
       {
-        "name": "Málaga 24h TV",
+        "name": "Málaga 24h TV Proximamente",
         "cardImage": "https://pbs.twimg.com/profile_images/834359999371603968/LxxCVoSo_400x400.jpg",
         "url": "https://www.youtube.com/channel/UCoMWImnPAur6JhXDK63dpAg/live"
       },
@@ -294,7 +294,7 @@
         "url": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8"
       },
       {
-        "name": "TV Carmona",
+        "name": "TV Carmona Proximamente",
         "cardImage": "https://i.imgur.com/NLue2Q5.jpg",
         "url": "https://www.youtube.com/channel/UC_FCG-Dn0LUaUjz06IqwHwA/live"
       },
