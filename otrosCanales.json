@@ -1,7 +1,7 @@
 [
   {
-    "MUNDIAL": [
-      {
+    "DEPORTES": [
+     {
         "name": "Gol Mundial 1080p",
         "cardImage": "https://statics.goltelevision.com/backoffice/public/image/golmundia_a51400942e.png",
         "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
@@ -140,13 +140,6 @@
 	"name": "PADEL",
         "cardImage": "https://cd1.taquilla.com/data/images/t/35/world-padel-tour.jpg",
         "url": "acestream://08db089084ddbaceba7c239817407bf99708b9ad"
-      }
-    ],
-    "DEPORTES": [
-      {
-        "name": "DEPORTES",
-        "cardImage": "https://i1.sndcdn.com/avatars-000712976110-cgdzcv-t500x500.jpg",
-        "url": "acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486"
       }
     ]
   }
