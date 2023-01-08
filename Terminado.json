@@ -87,11 +87,6 @@
         "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
       },
       {
-        "name": "Gol TV Proximamente",
-        "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
-        "url": "https://www.goltelevision.com/en-directo"
-      },
-      {
         "name": "Real Madrid TV",
         "cardImage": "https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg",
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
@@ -100,11 +95,6 @@
         "name": "24h",
         "cardImage": "https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
-      },
-      {
-        "name": "DKISS",
-        "cardImage": "https://www.dkiss.es/wp-content/uploads/dkiss.png",
-        "url": "http://242449301874267959.nicehos.xyz:80/S3BKFNQKR8/0789182787/267959"
       }
     ],
     "Andalucía": [
