@@ -53,6 +53,18 @@
     ],
     "FUTBOL": [
      {
+        "name": "Supercopa 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1"
+      },{
+        "name": "Supercopa 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1"
+      },{
+        "name": "Supercopa 720",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464"
+      },{
         "name": "DAZN Liga 1080",
         "cardImage": "https://i.imgur.com/kykZcTh.jpg",
         "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
