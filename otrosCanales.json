@@ -126,16 +126,7 @@
       {
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://c372020ed2744033f56548b6beb11a9f3e740f37"
-      },
-	  {
-        "name": "F1",
-        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2"
-      },{
-	"name": "PADEL",
-        "cardImage": "https://cd1.taquilla.com/data/images/t/35/world-padel-tour.jpg",
-        "url": "acestream://08db089084ddbaceba7c239817407bf99708b9ad"
+        "url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14"
       }
     ]
   }
