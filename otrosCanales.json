@@ -126,6 +126,10 @@
       {
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2"
+      },{
+        "name": "F1",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14"
       }
     ]
