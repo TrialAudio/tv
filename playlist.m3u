@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="Antena3" tvg-logo="https://scontent.fsvq2-1.fna.fbcdn.net/v/t39.30808-1/268846235_10158857987591298_7959305623882428636_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=ji11bpljQ3AAX_vD6bR&_nc_ht=scontent.fsvq2-1.fna&edm=AKsJ254EAAAA&oh=00_AT8yZjfaPhoX7gMCLZMH9_RWi2CX3V35N1Gwz_R_jvSDbQ&oe=62EA4027" group-title="Generalistas" tvg-name="Antena 3",Antena 3
+https://atres-live.atresmedia.com/fb0c701d095d08d413946ac22a658fc917cc42bd_ES_1659182195_1659210935/h264/live/antena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro" tvg-logo="" group-title="Generalistas" tvg-name="Cuatro",Cuatro
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 2 Andalucía",Canal Sur 2 Andalucía
+http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="#0_HD" tvg-logo="" group-title="Deportivos" tvg-name="#0 Movistar HD", #0 Movistar HD
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Liga_TV_Bar_HD" tvg-logo="" group-title="Deportivos" tvg-name="Liga TV Bar HD", Liga TV Bar HD
+http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_La_Liga_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN La Liga HD", DAZN La Liga HD
+http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Movistar_La_Liga_HD" tvg-logo="" group-title="Deportivos" tvg-name="Movistar La Liga HD", Movistar La Liga HD
+http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Movistar_La_Liga_SD" tvg-logo="" group-title="Deportivos" tvg-name="Movistar La Liga SD", Movistar La Liga SD
+http://127.0.0.1:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Movistar_La_Liga_2_HD" tvg-logo="" group-title="Deportivos" tvg-name="Movistar La Liga 2 HD", Movistar La Liga 2 HD
+http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Movistar_La_Liga_3_HD" tvg-logo="" group-title="Deportivos" tvg-name="Movistar La Liga 3 HD", Movistar La Liga 3 HD
+http://127.0.0.1:6878/ace/getstream?id=e693d6b35ee9dc2c6a0d0593edec281268e79440&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="Movistar_La_Liga_Smartbank_HD" tvg-logo="" group-title="Deportivos" tvg-name="Movistar La Liga Smartbank HD", Movistar La Liga Smartbank HD
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="VAMOS_HD" tvg-logo="" group-title="Deportivos" tvg-name="VAMOS HD", VAMOS HD
+http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="VAMOS_SD" tvg-logo="" group-title="Deportivos" tvg-name="VAMOS SD", VAMOS SD
+http://127.0.0.1:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_DEPORTES_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR DEPORTES HD", MOVISTAR DEPORTES HD
+http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_DEPORTES_2_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR DEPORTES 2 HD", MOVISTAR DEPORTES 2 HD
+http://127.0.0.1:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_DEPORTES_3_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR DEPORTES 3 HD", MOVISTAR DEPORTES 3 HD
+http://127.0.0.1:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_DEPORTES_4_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR DEPORTES 4 SD", MOVISTAR DEPORTES 4 SD
+http://127.0.0.1:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_DEPORTES_5_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR DEPORTES 5 SD", MOVISTAR DEPORTES 5 SD
+http://127.0.0.1:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_LIGA_CAMPEONES_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR LIGA CAMPEONES HD", MOVISTAR LIGA CAMPEONES HD
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_LIGA_CAMPEONES_SD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR LIGA CAMPEONES SD", MOVISTAR LIGA CAMPEONES SD
+http://127.0.0.1:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_LIGA_CAMPEONES_2_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR LIGA CAMPEONES 2 HD", MOVISTAR LIGA CAMPEONES 2 HD
+http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_LIGA_CAMPEONES_3_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR LIGA CAMPEONES 3 HD", MOVISTAR LIGA CAMPEONES 3 HD
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MOVISTAR_ELLAS_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR ELLAS HD", MOVISTAR ELLAS HD
+http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_1_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN 1 HD", DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_2_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN 2 HD", DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_3_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN 3 HD", DAZN 3 HD
+http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_4_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN 4 HD", DAZN 4 HD
+http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_F1_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportivos" tvg-name="DAZN F1 HD", DAZN F1 HD
+http://127.0.0.1:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="DAZN_F1_SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportivos" tvg-name="DAZN F1 SD", DAZN F1 SD
+http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="GOL_HD" tvg-logo="" group-title="Deportivos" tvg-name="GOL HD",GOL HD
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="TELEDEPORTE_HD" tvg-logo="" group-title="Deportivos" tvg-name="TELEDEPORTE HD",TELEDEPORTE HD
+http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="MEGA_HD" tvg-logo="" group-title="Entretenimiento" tvg-name="MEGA HD",MEGA HD
+http://127.0.0.1:6878/ace/getstream?id=cc5f7b6ea29b19b5ec6eef565d49a698340b4943&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="RealMadrid TV",RealMadrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-id="BARSA.TV" tvg-logo="" group-title="Deportivos" tvg-name="Barça TV",Barça TV
+http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
+https://adc-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz 24h",Onda Cádiz 24h
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="8 TV Cádiz",8 TV Cádiz
+https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" group-title="Peliculas" tvg-name="Rakuten TV Acción", Rakuten TV Acción
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" group-title="Peliculas" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" group-title="Peliculas" tvg-name="Rakuten TV En familia", Rakuten TV En familia
+https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" group-title="Peliculas" tvg-name="Rakuten TV Drama", Rakuten TV Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" group-title="Peliculas" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" group-title="Peliculas" tvg-name="Documentales", Documentales
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="NAT.GEO.HD" tvg-logo="" tvg-name="NAT GEO HD", NAT GEO HD
+http://127.0.0.1:6878/ace/getstream?id=887d91ccc27fd4f3097d6df09448ea7bac8910f4&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="CANAL.HISTORIA" tvg-logo="" tvg-name="CANAL HISTORIA HD", CANAL HISTORIA HD
+http://127.0.0.1:6878/ace/getstream?id=8bc9696c5b07b723186ac224f5269f02db6dde8e&hlc=1&spv=0MZ                                                                                                                                                                                                                                                                                                                            €                  0  €                   H   X@ l          l4   V S _ V E R S I O N _ I N F O     ½ïþ                   ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       °Ì   S t r i n g F i l e I n f o   ¨   0 0 0 0 0 4 b 0   ,   F i l e D e s c r i p t i o n         0   F i l e V e r s i o n     0 . 0 . 0 . 0   J   I n t e r n a l N a m e   a s s e m b l y _ v a l h e i m . d l l     (   L e g a l C o p y r i g h t       R   O r i g i n a l F i l e n a m e   a s s e m b l y _ v a l h e i m . d l l     4   P r o d u c t V e r s i o n   0 . 0 . 0 . 0   8   A s s e m b l y   V e r s i o n   0 . 0 . 0 . 0                                                                                                                                                                                                                                                                                                                                     Ð4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
