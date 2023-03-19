@@ -135,6 +135,10 @@
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2"
+      },{
+        "name": "Padel",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://08db089084ddbaceba7c239817407bf99708b9ad"
       }
     ]
   }
