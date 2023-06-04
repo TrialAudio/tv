@@ -132,10 +132,6 @@
     ],
     "FORMULA 1": [
       {
-        "name": "F1 Funcionando",
-        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://a11e904c0b74872c1275c9bf556049c4b54eb6b2"
-      },{
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://a52bf7c28df63995ad427c32ebf1e517445720bb"
@@ -147,10 +143,6 @@
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2"
-      },{
-        "name": "Padel",
-        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://08db089084ddbaceba7c239817407bf99708b9ad"
       }
     ]
   }
