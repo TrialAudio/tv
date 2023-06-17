@@ -142,6 +142,10 @@
       {
         "name": "F1 Actualizado",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://e8d2ae01fab187655f7b47feaea4d6dad9211672"
+      },{
+        "name": "F1 Multicamara",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://dca8b79aadd3763786c255746b7712faa7db55e6"
       },{
         "name": "F1",
