@@ -53,9 +53,9 @@
     ],
     "FUTBOL": [
      {
-        "name": "DAZN Liga 1080",
-        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
-        "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+        "name": "Movistar La Liga 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
       },{
         "name": "DAZN Liga 1080",
         "cardImage": "https://i.imgur.com/kykZcTh.jpg",
