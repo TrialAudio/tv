@@ -36,19 +36,19 @@
       },{
         "name": "DAZN 2 1080",
         "cardImage": "https://i.imgur.com/s0Gc4to.jpg",
-        "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+        "url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"
       },{
         "name": "DAZN 2 720",
         "cardImage": "https://i.imgur.com/s0Gc4to.jpg",
-        "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+        "url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"
       },{
         "name": "DAZN 3 1080",
         "cardImage": "https://i.imgur.com/Kd3lSlZ.jpg",
-        "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+        "url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"
       },{
         "name": "DAZN 4 1080",
         "cardImage": "https://i.imgur.com/2cNl2iG.jpg",
-        "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
+        "url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"
       }
     ],
     "FUTBOL": [
@@ -56,6 +56,18 @@
         "name": "Movistar La Liga 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
         "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
+      },{
+        "name": "Movistar La Liga 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://731428b18eb656121990261c1b072b13f7caef30"
+      },{
+        "name": "Movistar La Liga 1080",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"
+      },{
+        "name": "Movistar La Liga 720",
+        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
+        "url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"
       },{
         "name": "DAZN Liga 1080",
         "cardImage": "https://i.imgur.com/kykZcTh.jpg",
