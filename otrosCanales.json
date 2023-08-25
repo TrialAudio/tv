@@ -144,13 +144,9 @@
     ],
     "FORMULA 1": [
       {
-        "name": "F1 Actualizado",
+        "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://0c561289a8ce18449e23cca3e925dcb663b7ccfa"
-      },{
-        "name": "F1 Multicamara",
-        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://dca8b79aadd3763786c255746b7712faa7db55e6"
+        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
       },{
         "name": "F1",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
