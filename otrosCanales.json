@@ -53,9 +53,13 @@
     ],
     "FUTBOL": [
      {
-        "name": "Movistar Liga Campeones 1080",
+        "name": "Movistar Liga Campeones 1080 Barc",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
+      },{
+        "name": "Movistar Liga Campeones 1080 At Madrid",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
       },{
         "name": "Movistar La Liga 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
