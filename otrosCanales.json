@@ -2,21 +2,17 @@
   {
     "DEPORTES": [
       {
-        "name": "GOL TV",
-        "cardImage": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
-        "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
-      },{
         "name": "#Vamos 1080",
         "cardImage": "https://i.imgur.com/9UhFRtT.jpg",
-        "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+        "url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
       },{
         "name": "#Vamos 720",
         "cardImage": "https://i.imgur.com/9UhFRtT.jpg",
-        "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+        "url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
       },{
         "name": "M Deportes 1080",
         "cardImage": "https://i.imgur.com/uLpGYmX.jpg",
-        "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+        "url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"
       },{
         "name": "M Deportes 720",
         "cardImage": "https://i.imgur.com/uLpGYmX.jpg",
@@ -24,7 +20,27 @@
       },{
         "name": "M Deportes 2 1080",
         "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
-        "url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5"
+        "url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+      },{
+        "name": "M Deportes 3 1080",
+        "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
+        "url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+      },{
+        "name": "M Deportes 4 1080",
+        "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
+        "url": "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+      },{
+        "name": "M Deportes 5 1080",
+        "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
+        "url": "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+      },{
+        "name": "M Deportes 6 1080",
+        "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
+        "url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+      },{
+        "name": "M Deportes 7 1080",
+        "cardImage": "https://i.imgur.com/0eCEwqS.jpg",
+        "url": "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
       },{
         "name": "DAZN 1 1080",
         "cardImage": "https://i.imgur.com/NMu84W3.jpg",
@@ -52,18 +68,74 @@
       }
     ],
     "FUTBOL": [
-     {
-        "name": "Movistar Liga Campeones 1080 Barc",
+      {
+        "name": "Movistar Liga Campeones 1080",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
       },{
-        "name": "Movistar Liga Campeones 1080 Barc",
+        "name": "Movistar Liga Campeones 1080",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
+      },{
+        "name": "Movistar Liga Campeones 1080",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
       },{
-        "name": "Movistar Liga Campeones 1080 At Madrid",
+        "name": "Movistar Liga Campeones 720",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
+        "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"
+      },{
+        "name": "Movistar Liga Campeones 2 1080",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"
+      },{
+        "name": "Movistar Liga Campeones 2 720",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"
+      },{
+        "name": "Movistar Liga Campeones 3 1080",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"
+      },{
+        "name": "Movistar Liga Campeones 3 720",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+      },{
+        "name": "Movistar Liga Campeones 4 SD",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"
+      },{
+        "name": "Movistar Liga Campeones 5 SD",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"
+      },{
+        "name": "Movistar Liga Campeones 6 SD",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream:/a0978a100de9a307c12d395d9b2f4142db6ab52d"
+      },{
+        "name": "Movistar Liga Campeones 7 SD",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://d84a90adb6998083403f610ab3fae340b5711b1e"
+      },{
+        "name": "DAZN Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+      },{
+        "name": "DAZN Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+      },{
+        "name": "DAZN Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+      },{
+        "name": "DAZN Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256"
+      },{
+        "name": "DAZN Liga 720",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
       },{
         "name": "Movistar La Liga 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
@@ -71,7 +143,7 @@
       },{
         "name": "Movistar La Liga 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://731428b18eb656121990261c1b072b13f7caef30"
+        "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
       },{
         "name": "Movistar La Liga 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
@@ -81,92 +153,28 @@
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
         "url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"
       },{
-        "name": "DAZN Liga 1080",
-        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
-        "url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
-      },{
-        "name": "DAZN Liga 720",
-        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
-        "url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
-      },{
-        "name": "Movistar La Liga 1080",
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-      },{
-        "name": "Movistar La Liga 1080",
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-      },{
-        "name": "Movistar La Liga 1080",
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888"
-      },{
-        "name": "Movistar La Liga 720",
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
-      },{
         "name": "Movistar La Liga 2 1080",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c"
+        "url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"
       },{
         "name": "Movistar La Liga 2 720",
         "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-        "url": "acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18"
-      },{
-
-        "name": "Movistar La Liga 3 1080",
-
-        "cardImage": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/22/15691844156647.jpg",
-
-        "url": "acestream://4c4844564313e39a888f593511f299f5ba3cf929"
-
-      },{
-
-        "name": "Movistar Liga Campeones 1080",
-
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-
-        "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-
-        },{
-        "name": "Movistar Liga Campeones 1080",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      },{
-        "name": "Movistar Liga Campeones 720",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-      },{
-        "name": "Movistar Liga Campeones 2 1080",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-      },{
-        "name": "Movistar Liga Campeones 2 720",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-      },{
-        "name": "Movistar Liga Campeones 3 1080",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-      },{
-        "name": "Movistar Liga Campeones 3 720",
-        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
-        "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+        "url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
       }
     ],
     "FORMULA 1": [
       {
-        "name": "F1",
+        "name": "F1 1080",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+        "url": "acestream://5789ca155323664edd293b848606688edf803f4d"
       },{
-        "name": "F1",
+        "name": "F1 1080",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
         "url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
       },{
-        "name": "F1",
+        "name": "F1 720",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://5789ca155323664edd293b848606688edf803f4d"
+        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
       }
     ]
   }
