@@ -69,6 +69,10 @@
     ],
     "FUTBOL": [
       {
+        "name": "Movistar La Liga TV",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
+      },{
         "name": "Movistar Liga Campeones 1080",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
