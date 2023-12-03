@@ -69,6 +69,10 @@
     ],
     "FUTBOL": [
       {
+        "name": "Barca",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
+      },{
         "name": "Movistar La Liga TV 1080",
         "cardImage": "https://i.imgur.com/iQJVA1z.png",
         "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
