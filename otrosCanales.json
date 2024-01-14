@@ -69,11 +69,11 @@
     ],
     "FUTBOL": [
       {
-        "name": "Madrid Atletico",
+        "name": "SuperCopa de España",
         "cardImage": "https://i.imgur.com/iQJVA1z.png",
         "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
       },{
-        "name": "Madrid Atletico 2",
+        "name": "Movistar+",
         "cardImage": "https://i.imgur.com/iQJVA1z.png",
         "url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
       },{
