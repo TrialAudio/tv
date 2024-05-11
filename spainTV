@@ -1,7 +1,8 @@
 [
   {
-  "descarga": "https://github.com/TrialAudio/tv/releases/download/TV1/SpainTV.apk",
-  "versionName": "0.001",
-  "versionCode": "1"
+  "descargaSpainTV": "https://github.com/TrialAudio/tv/releases/download/TV1/SpainTV.apk",
+  "versionNameSpainTV": "0.001",
+  "descargaSpainDownloader": "1",
+  "versionNameSpainDownloader": "1"
   }
 ]
