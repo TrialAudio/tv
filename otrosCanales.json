@@ -69,6 +69,10 @@
     ],
     "FUTBOL": [
       {
+        "name": "Movistar La Liga",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d"
+      },{
         "name": "Movistar+",
         "cardImage": "https://i.imgur.com/iQJVA1z.png",
         "url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
