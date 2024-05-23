@@ -9,6 +9,8 @@
   "descargaTDTChannels": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
   "versionNameTDTChannels": "0.001",
   "descargaMagis": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
-  "versionNameMagis": "0.001"
+  "versionNameMagis": "0.001",
+  "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
+  "versionNameAcestream": "0.001"
   }
 ]
