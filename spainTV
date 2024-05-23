@@ -1,7 +1,7 @@
 [
   {
   "descargaSpainDownloader": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
-  "versionNameSpainDownloader": "0.003",
+  "versionNameSpainDownloader": "0.004",
   "descargaTiDTi": "https://github.com/pablobaro/TiDTi/releases/download/V0.0.9/app-release.apk",
   "versionNameTiDTi": "0.009",
   "descargaSpainTV": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
@@ -9,7 +9,7 @@
   "descargaTDTChannels": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
   "versionNameTDTChannels": "0.001",
   "descargaMagis": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
-  "versionNameMagis": "0.001",
+  "versionNameMagis": "0.002",
   "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
   "versionNameAcestream": "0.001"
   }
