@@ -2,6 +2,10 @@
   {
     "DEPORTES": [
       {
+       "name": "EuroSport 1",
+        "cardImage": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",
+        "url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+      },{
         "name": "#Vamos 1080",
         "cardImage": "https://i.imgur.com/9UhFRtT.jpg",
         "url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
