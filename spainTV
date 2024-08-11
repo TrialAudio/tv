@@ -10,7 +10,7 @@
   "versionNameTDTChannels": "0.001",
   "descargaMagis": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
   "versionNameMagis": "0.002",
-  "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
+  "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
   "versionNameAcestream": "0.001"
   }
 ]
