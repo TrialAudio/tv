@@ -73,6 +73,22 @@
     ],
     "FUTBOL": [
       {
+        "name": "Hypermotion 1080",
+        "cardImage": "https://i.imgur.com/GJWt9k6.png",
+        "url": "acestream://4c81dacfe639d74722d0c26a4f6a4f2dfebfd29c"
+      },{
+        "name": "Hypermotion 1080",
+        "cardImage": "https://i.imgur.com/GJWt9k6.png",
+        "url": "acestream://1f4c7fa8d318e50c538a6bd0938fd77b804e1da3"
+      },{
+        "name": "Hypermotion 2 1080",
+        "cardImage": "https://i.imgur.com/GJWt9k6.png",
+        "url": "acestream://9d7a240dac7b90043ff8e9899ce9cce1eaa8e8fe"
+      },{
+        "name": "Hypermotion 2 1080",
+        "cardImage": "https://i.imgur.com/GJWt9k6.png",
+        "url": "acestream://6b5fc7b9b8b822dbb78b65124a5ba75e06470a8d"
+      },{
         "name": "Movistar La Liga",
         "cardImage": "https://i.imgur.com/iQJVA1z.png",
         "url": "acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d"
