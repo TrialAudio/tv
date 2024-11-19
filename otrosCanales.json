@@ -2,6 +2,10 @@
   {
     "DEPORTES": [
       {
+       "name": "Movistar +",
+        "cardImage": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",
+        "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+      },{
        "name": "EuroSport 1",
         "cardImage": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",
         "url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
