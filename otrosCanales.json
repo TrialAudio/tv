@@ -85,28 +85,88 @@
     ],
     "FUTBOL": [
       {
-        "name": "Movistar La Liga de Campeones",
+        "name": "M. Liga de Campeones 1080",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
       },{
-        "name": "Movistar La Liga de Campeones",
+        "name": "M. Liga de Campeones 1080",
         "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
         "url": "acestream://775abd8697715c48a357906d40734ccd2a10513c"
+      },{
+        "name": "M. Liga de Campeones 720",
+        "cardImage": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg",
+        "url": "acestream://8edb264520569b2280c5e86b2dc734e120032903"
+      },{
+        "name": "M. La Liga 1080",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+      },{
+        "name": "M. La Liga 1080",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+      },{
+        "name": "M. La Liga 1080",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+      },{
+        "name": "M. La Liga 720",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+      },{
+        "name": "M. La Liga 2 1080",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
+      },{
+        "name": "M. La Liga 2 720",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
+      },{
+        "name": "M. La Liga 3 1080",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
+      },{
+        "name": "M. La Liga 3 720",
+        "cardImage": "https://i.imgur.com/iQJVA1z.png",
+        "url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
+      },{
+        "name": "M. La Liga BAR",
+        "cardImage": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
+        "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+      },{
+        "name": "DAZN La Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+      },{
+        "name": "DAZN La Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+      },{
+        "name": "DAZN La Liga 1080",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+      },{
+        "name": "DAZN La Liga 720",
+        "cardImage": "https://i.imgur.com/kykZcTh.jpg",
+        "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
       }
     ],
     "FORMULA 1": [
       {
         "name": "F1 1080",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://5789ca155323664edd293b848606688edf803f4d"
+        "url": "acestream://20196007a6697a1f11589fd4c8bab6713c265e64"
       },{
         "name": "F1 1080",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
+        "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
+      },{
+        "name": "F1 1080",
+        "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
+        "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
       },{
         "name": "F1 720",
         "cardImage": "https://i.imgur.com/F4Ocd36.jpg",
-        "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+        "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
       }
     ]
   }
