@@ -1,18 +1,65 @@
 [
   {
-  "descargaSpainDownloader": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
-  "versionNameSpainDownloader": "0.009",
-  "descargaTiDTi": "https://github.com/pablobaro/TiDTi/releases/download/V0.0.9/app-release.apk",
-  "versionNameTiDTi": "0.009",
-  "descargaSpainTV": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
-  "versionNameSpainTV": "0.008",
-  "descargaTDTChannels": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
-  "versionNameTDTChannels": "0.002",
-  "descargaMagis": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
-  "versionNameMagis": "0.002",
-  "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
-  "versionNameAcestream": "0.001",
-  "descargaOpenvpn": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
-  "versionNameOpenvpn": "0.001"
+    "id": 1,
+    "name": "Spain Downloader",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
+    "versionKey": "spainDownloader",
+    "versionName": "0.009",
+    "packageName": "com.spain.downloader",
+    "imageUrl": "https://example.com/images/spainDownloader.png"
+  },
+  {
+    "id": 2,
+    "name": "TiDTi",
+    "downloadUrl": "https://github.com/pablobaro/TiDTi/releases/download/V0.0.9/app-release.apk",
+    "versionKey": "tidti",
+    "versionName": "0.009",
+    "packageName": "com.tidti",
+    "imageUrl": "https://example.com/images/tidti.png"
+  },
+  {
+    "id": 3,
+    "name": "Spain TV",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
+    "versionKey": "spainTV",
+    "versionName": "0.008",
+    "packageName": "com.spain.tv",
+    "imageUrl": "https://example.com/images/spainTV.png"
+  },
+  {
+    "id": 4,
+    "name": "TDT Channels",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
+    "versionKey": "tdtChannels",
+    "versionName": "0.002",
+    "packageName": "com.tdt.channels",
+    "imageUrl": "https://example.com/images/tdtchannels.png"
+  },
+  {
+    "id": 5,
+    "name": "Magis",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
+    "versionKey": "magis",
+    "versionName": "0.002",
+    "packageName": "com.magis",
+    "imageUrl": "https://example.com/images/magis.png"
+  },
+  {
+    "id": 6,
+    "name": "AceStream",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
+    "versionKey": "acestream",
+    "versionName": "0.001",
+    "packageName": "org.acestream",
+    "imageUrl": "https://example.com/images/acestream.png"
+  },
+  {
+    "id": 7,
+    "name": "OpenVPN",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
+    "versionKey": "openvpn",
+    "versionName": "0.001",
+    "packageName": "net.openvpn",
+    "imageUrl": "https://example.com/images/openvpn.png"
   }
 ]
