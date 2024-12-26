@@ -15,7 +15,7 @@
     "versionKey": "tidti",
     "versionName": "0.009",
     "packageName": "com.tidti",
-    "imageUrl": "https://example.com/images/tidti.png"
+    "imageUrl": "https://i.imgur.com/zXJlzLP.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "versionKey": "spainTV",
     "versionName": "0.008",
     "packageName": "com.spain.tv",
-    "imageUrl": "https://example.com/images/spainTV.png"
+    "imageUrl": "https://i.imgur.com/Li9WZgG.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "versionKey": "tdtChannels",
     "versionName": "0.002",
     "packageName": "com.tdt.channels",
-    "imageUrl": "https://example.com/images/tdtchannels.png"
+    "imageUrl": "https://i.imgur.com/uHfiocr.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "versionKey": "magis",
     "versionName": "0.002",
     "packageName": "com.magis",
-    "imageUrl": "https://example.com/images/magis.png"
+    "imageUrl": "https://i.imgur.com/HOOvy9L.png"
   },
   {
     "id": 6,
@@ -60,6 +60,6 @@
     "versionKey": "openvpn",
     "versionName": "0.001",
     "packageName": "net.openvpn",
-    "imageUrl": "https://example.com/images/openvpn.png"
+    "imageUrl": "https://i.imgur.com/ePnqy0W.png"
   }
 ]
