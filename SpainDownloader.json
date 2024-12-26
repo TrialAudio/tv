@@ -1,0 +1,18 @@
+[
+  {
+  "descargaSpainDownloader": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
+  "versionNameSpainDownloader": "0.009",
+  "descargaTiDTi": "https://github.com/pablobaro/TiDTi/releases/download/V0.0.9/app-release.apk",
+  "versionNameTiDTi": "0.009",
+  "descargaSpainTV": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
+  "versionNameSpainTV": "0.008",
+  "descargaTDTChannels": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
+  "versionNameTDTChannels": "0.002",
+  "descargaMagis": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
+  "versionNameMagis": "0.002",
+  "descargaAcestream": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
+  "versionNameAcestream": "0.001",
+  "descargaOpenvpn": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
+  "versionNameOpenvpn": "0.001"
+  }
+]
