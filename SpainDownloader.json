@@ -5,7 +5,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
     "versionName": "0.009",
-    "packageName": "com.spain.downloader",
+    "packageName": "spain.downloader",
     "imageUrl": "https://example.com/images/spainDownloader.png"
   },
   {
@@ -14,7 +14,7 @@
     "downloadUrl": "https://github.com/pablobaro/TiDTi/releases/download/V0.0.9/app-release.apk",
     "versionKey": "tidti",
     "versionName": "0.009",
-    "packageName": "com.tidti",
+    "packageName": "tdt.esp.tidti",
     "imageUrl": "https://i.imgur.com/zXJlzLP.png"
   },
   {
@@ -23,7 +23,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
     "versionKey": "spainTV",
     "versionName": "0.008",
-    "packageName": "com.spain.tv",
+    "packageName": "com.mcdstore.spaintvglobal",
     "imageUrl": "https://i.imgur.com/Li9WZgG.png"
   },
   {
@@ -32,7 +32,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
     "versionKey": "tdtChannels",
     "versionName": "0.002",
-    "packageName": "com.tdt.channels",
+    "packageName": "com.tdtchannels.player",
     "imageUrl": "https://i.imgur.com/uHfiocr.png"
   },
   {
@@ -41,7 +41,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
     "versionKey": "magis",
     "versionName": "0.002",
-    "packageName": "com.magis",
+    "packageName": "com.android.mgstv",
     "imageUrl": "https://i.imgur.com/HOOvy9L.png"
   },
   {
@@ -50,7 +50,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
     "versionKey": "acestream",
     "versionName": "0.001",
-    "packageName": "org.acestream",
+    "packageName": "org.acestream.media.web",
     "imageUrl": "https://i.imgur.com/a0QEZUb.png"
   },
   {
@@ -59,7 +59,7 @@
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
     "versionKey": "openvpn",
     "versionName": "0.001",
-    "packageName": "net.openvpn",
+    "packageName": "net.openvpn.openvpn",
     "imageUrl": "https://i.imgur.com/ePnqy0W.png"
   }
 ]
