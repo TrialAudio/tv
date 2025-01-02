@@ -4,7 +4,7 @@
     "name": "Spain Downloader",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
-    "versionName": "0.013",
+    "versionName": "0.014",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -70,5 +70,41 @@
     "versionName": "0.001",
     "packageName": "com.teamsmart.videomanager.tv",
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
+  },
+  {
+    "id": 9,
+    "name": "MicroG YT",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/microg.apk",
+    "versionKey": "microg",
+    "versionName": "0.001",
+    "packageName": "app.revanced.android.gms",
+    "imageUrl": "https://i.imgur.com/u4zmMWl.png"
+  },
+  {
+    "id": 10,
+    "name": "Youtube Revanced",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revanced.apk",
+    "versionKey": "revancedyt",
+    "versionName": "0.001",
+    "packageName": "app.revanced.android.youtube",
+    "imageUrl": "https://i.imgur.com/e4MG7q5.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Youtube Music",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedmusic.apk",
+    "versionKey": "revancedmusic",
+    "versionName": "0.001",
+    "packageName": "app.revanced.android.apps.youtube.music",
+    "imageUrl": "https://i.imgur.com/Ft2T8NP.png"
+  },
+  {
+    "id": 12,
+    "name": "Spotify",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify.apk",
+    "versionKey": "spotify",
+    "versionName": "0.001",
+    "packageName": "com.spotify.music",
+    "imageUrl": "https://i.imgur.com/FXP5CO5.png"
   }
 ]
