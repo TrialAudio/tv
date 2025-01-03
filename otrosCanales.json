@@ -2,6 +2,18 @@
   {
     "DEPORTES": [
       {
+       "name": "SkySport EN",
+        "cardImage": "https://i.imgur.com/FUlocoX.png",
+        "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+      },{
+       "name": "SkySport EN 2",
+        "cardImage": "https://i.imgur.com/FUlocoX.png",
+        "url": "acestream://76173cf47d0f58a77a5263622e01177a2d046b45"
+      },{
+       "name": "SkySport EN 3",
+        "cardImage": "https://i.imgur.com/FUlocoX.png",
+        "url": "acestream://bab51bf53966364bfb3634e5606f3fd4471f2ded"
+      },{
        "name": "Movistar+ 1080",
         "cardImage": "https://i.imgur.com/tP2pVCI.png",
         "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
