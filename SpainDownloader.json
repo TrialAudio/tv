@@ -31,7 +31,7 @@
     "name": "TDT Channels",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtchannels.apk",
     "versionKey": "tdtChannels",
-    "versionName": "0.002",
+    "versionName": "0.003",
     "packageName": "com.tdtchannels.player",
     "imageUrl": "https://i.imgur.com/uHfiocr.png"
   },
