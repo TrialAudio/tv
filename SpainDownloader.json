@@ -103,7 +103,7 @@
     "name": "Spotify",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify.apk",
     "versionKey": "spotify",
-    "versionName": "0.002",
+    "versionName": "0.003",
     "packageName": "com.spotify.music",
     "imageUrl": "https://i.imgur.com/FXP5CO5.png"
   }
