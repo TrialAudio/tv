@@ -106,5 +106,14 @@
     "versionName": "0.003",
     "packageName": "com.spotify.music",
     "imageUrl": "https://i.imgur.com/FXP5CO5.png"
+  },
+  {
+    "id": 13,
+    "name": "Spotify Podcast",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotifyPodcast.apk",
+    "versionKey": "spotifyPodcast",
+    "versionName": "0.001",
+    "packageName": "com.spotify.music",
+    "imageUrl": "https://i.imgur.com/L6ctfD0.png"
   }
 ]
