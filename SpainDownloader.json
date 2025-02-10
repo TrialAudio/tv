@@ -4,7 +4,7 @@
     "name": "Spain Downloader",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
-    "versionName": "0.015",
+    "versionName": "0.016",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -22,8 +22,8 @@
     "name": "Spain TV",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spaintv.apk",
     "versionKey": "spainTV",
-    "versionName": "0.008",
-    "packageName": "com.mcdstore.spaintvglobal",
+    "versionName": "0.009",
+    "packageName": "com.mcdstore.spaintv",
     "imageUrl": "https://i.imgur.com/Li9WZgG.png"
   },
   {
