@@ -4,7 +4,7 @@
     "name": "Spain Downloader",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
-    "versionName": "0.016",
+    "versionName": "0.017",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -103,7 +103,7 @@
     "name": "Spotify",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify.apk",
     "versionKey": "spotify",
-    "versionName": "0.003",
+    "versionName": "0.004",
     "packageName": "com.spotify.music",
     "imageUrl": "https://i.imgur.com/FXP5CO5.png"
   },
