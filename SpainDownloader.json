@@ -97,5 +97,14 @@
     "versionName": "0.001",
     "packageName": "app.revanced.android.apps.youtube.music",
     "imageUrl": "https://i.imgur.com/Ft2T8NP.png"
-  }
+  },
+  {
+     "id": 12,
+     "name": "Spotify",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify.apk",
+     "versionKey": "spotify",
+     "versionName": "0.010",
+     "packageName": "com.spotify.music",
+     "imageUrl": "https://i.imgur.com/FXP5CO5.png"
+   }
 ]
