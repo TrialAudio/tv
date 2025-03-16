@@ -4,7 +4,7 @@
     "name": "Spain Downloader",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
-    "versionName": "0.017",
+    "versionName": "0.018",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -106,5 +106,14 @@
      "versionName": "0.010",
      "packageName": "com.spotify.music",
      "imageUrl": "https://i.imgur.com/FXP5CO5.png"
+   },
+  {
+     "id": 12,
+     "name": "OTT Navigator",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/ottnavigator.apk",
+     "versionKey": "ottnavigator",
+     "versionName": "0.001",
+     "packageName": "studio.scillarium.ottnavigator",
+     "imageUrl": "https://i.imgur.com/rPe795O.png"
    }
 ]
