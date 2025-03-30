@@ -3,7 +3,15 @@
     "DEPORTES": [
       {
        "name": "MotoGP",
-        "cardImage": "https://i.imgur.com/FUlocoX.png",
+        "cardImage": "https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg",
+        "url": "acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab"
+      },{
+       "name": "MotoGP",
+        "cardImage": "https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg",
+        "url": "acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0"
+      },{
+       "name": "MotoGP",
+        "cardImage": "https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg",
         "url": "acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421"
       },{
        "name": "SkySport EN 2",
