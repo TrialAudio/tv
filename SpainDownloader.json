@@ -4,7 +4,7 @@
     "name": "Spain Downloader",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spainDownloader.apk",
     "versionKey": "spainDownloader",
-    "versionName": "0.018",
+    "versionName": "0.019",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -115,5 +115,14 @@
      "versionName": "0.001",
      "packageName": "studio.scillarium.ottnavigator",
      "imageUrl": "https://i.imgur.com/rPe795O.png"
+   },
+  {
+     "id": 12,
+     "name": "RBTV 77",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/rbtv77.apk",
+     "versionKey": "rbtv",
+     "versionName": "0.001",
+     "packageName": "com.rblive.tv",
+     "imageUrl": "https://i.imgur.com/prfS1ce.png"
    }
 ]
