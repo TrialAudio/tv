@@ -152,5 +152,16 @@
      "versionName": "0.003",
      "packageName": "com.rblive.tv",
      "imageUrl": "https://i.imgur.com/prfS1ce.png"
+   },
+  {
+     "id": 13,
+     "name": "Cloudflare Warp",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/cloudflare.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/cloudflare.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/cloudflare.apk",
+     "versionKey": "cloudflare",
+     "versionName": "0.001",
+     "packageName": "com.rblive.tv",
+     "imageUrl": "https://i.imgur.com/Y3Kt4GA.png"
    }
 ]
