@@ -152,5 +152,16 @@
      "versionName": "0.003",
      "packageName": "com.rblive.tv",
      "imageUrl": "https://i.imgur.com/prfS1ce.png"
+   },
+  {
+     "id": 13,
+     "name": "YT Music Extended",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+     "versionKey": "revancedextendedmusic",
+     "versionName": "0.001",
+     "packageName": "revanced.extended.music",
+     "imageUrl": "https://i.imgur.com/mIqpnse.png"
    }
 ]
