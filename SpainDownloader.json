@@ -94,20 +94,9 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "revancedyt",
-    "versionName": "0.002",
+    "versionName": "0.003",
     "packageName": "app.revanced.android.youtube",
     "imageUrl": "https://i.imgur.com/Iu5Evj3.png"
-  },
-  {
-    "id": 10,
-    "name": "Youtube Music",
-    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedmusic.apk",
-    "downloadUrlTV": "",
-    "downloadUrlMobile": "",
-    "versionKey": "revancedmusic",
-    "versionName": "0.001",
-    "packageName": "app.revanced.android.apps.youtube.music",
-    "imageUrl": "https://i.imgur.com/Ft2T8NP.png"
   },
   {
      "id": 11,
