@@ -116,7 +116,7 @@
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/fctv77tv.apk",
     "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/fctv77.apk",
      "versionKey": "rbtv",
-     "versionName": "0.004",
+     "versionName": "0.005",
      "packageName": "com.rblive.tv",
      "imageUrl": "https://i.imgur.com/prfS1ce.png"
    },
