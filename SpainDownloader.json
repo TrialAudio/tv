@@ -127,7 +127,7 @@
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
     "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
      "versionKey": "revancedextendedmusic",
-     "versionName": "0.001",
+     "versionName": "0.002",
      "packageName": "revanced.extended.music",
      "imageUrl": "https://i.imgur.com/mIqpnse.png"
    }
