@@ -6,7 +6,7 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "spainDownloader",
-    "versionName": "0.020",
+    "versionName": "0.021",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -31,9 +31,19 @@
     "versionName": "0.006",
     "packageName": "com.tdtchannels.player",
     "imageUrl": "https://i.imgur.com/uHfiocr.png"
+  },{
+    "id": 4,
+    "name": "IPTV Smarters Pro",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/iptvsmarterspro.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "iptvsmarterspro",
+    "versionName": "0.001",
+    "packageName": "com.nst.iptvsmarterstvbox",
+    "imageUrl": "https://i.imgur.com/FiPGPop.png"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Magis",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
     "downloadUrlTV": "",
@@ -44,7 +54,7 @@
     "imageUrl": "https://i.imgur.com/HOOvy9L.png"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "AceStream",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
     "downloadUrlTV": "",
@@ -55,7 +65,7 @@
     "imageUrl": "https://i.imgur.com/a0QEZUb.png"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "OpenVPN",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
     "downloadUrlTV": "",
@@ -66,7 +76,7 @@
     "imageUrl": "https://i.imgur.com/ePnqy0W.png"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "SmartTube TV",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/smarttube.apk",
     "downloadUrlTV": "",
@@ -77,7 +87,7 @@
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "MicroG YT",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/microg.apk",
     "downloadUrlTV": "",
@@ -88,7 +98,7 @@
     "imageUrl": "https://i.imgur.com/u4zmMWl.png"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Youtube Revanced",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revanced.apk",
     "downloadUrlTV": "",
@@ -121,7 +131,7 @@
      "imageUrl": "https://i.imgur.com/prfS1ce.png"
    },
   {
-     "id": 12,
+     "id": 13,
      "name": "YT Music Extended",
      "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
