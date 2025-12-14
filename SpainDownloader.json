@@ -6,7 +6,7 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "spainDownloader",
-    "versionName": "0.021",
+    "versionName": "0.022",
     "packageName": "spain.downloader",
     "imageUrl": "https://i.imgur.com/ILu7lZ6.png"
   },
@@ -41,9 +41,19 @@
     "versionName": "0.001",
     "packageName": "com.nst.iptvsmarterstvbox",
     "imageUrl": "https://i.imgur.com/FiPGPop.png"
+  },{
+    "id": 5,
+    "name": "Wireguard VPN",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/wireguard.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "wireguard",
+    "versionName": "0.001",
+    "packageName": "com.wireguard.android",
+    "imageUrl": "https://i.imgur.com/xdCwZ9e.jpeg"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Magis",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/magis.apk",
     "downloadUrlTV": "",
@@ -54,7 +64,7 @@
     "imageUrl": "https://i.imgur.com/HOOvy9L.png"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "AceStream",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
     "downloadUrlTV": "",
@@ -65,7 +75,7 @@
     "imageUrl": "https://i.imgur.com/a0QEZUb.png"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "OpenVPN",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/openvpn.apk",
     "downloadUrlTV": "",
@@ -76,7 +86,7 @@
     "imageUrl": "https://i.imgur.com/ePnqy0W.png"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "SmartTube TV",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/smarttube.apk",
     "downloadUrlTV": "",
@@ -87,7 +97,7 @@
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "MicroG YT",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/microg.apk",
     "downloadUrlTV": "",
@@ -98,7 +108,7 @@
     "imageUrl": "https://i.imgur.com/u4zmMWl.png"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Youtube Revanced",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revanced.apk",
     "downloadUrlTV": "",
@@ -109,7 +119,7 @@
     "imageUrl": "https://i.imgur.com/Iu5Evj3.png"
   },
   {
-     "id": 11,
+     "id": 12,
      "name": "OTT Navigator",
      "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/ottnavigator.apk",
     "downloadUrlTV": "",
@@ -120,7 +130,7 @@
      "imageUrl": "https://i.imgur.com/rPe795O.png"
    },
   {
-     "id": 12,
+     "id": 13,
      "name": "RBTV",
      "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/fctv77tv.apk",
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/fctv77tv.apk",
@@ -131,7 +141,7 @@
      "imageUrl": "https://i.imgur.com/prfS1ce.png"
    },
   {
-     "id": 13,
+     "id": 14,
      "name": "YT Music Extended",
      "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
