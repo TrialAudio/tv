@@ -95,7 +95,7 @@
     "versionName": "0.005",
     "isTvApp": true,
     "isMobileApp": false,
-    "packageName": "com.teamsmart.videomanager.tv",
+    "packageName": "org.smarttube.stable",
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
   },
   {
