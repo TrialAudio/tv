@@ -70,7 +70,7 @@
     "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream_tv.apk",
     "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/acestream.apk",
     "versionKey": "acestream",
-    "versionName": "0.004",
+    "versionName": "0.005",
     "packageName": "org.acestream.nodf",
     "imageUrl": "https://i.imgur.com/a0QEZUb.png"
   },
