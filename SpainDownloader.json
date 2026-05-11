@@ -184,5 +184,17 @@
     "isMobileApp": true,
      "packageName": "revanced.extended.music",
      "imageUrl": "https://i.imgur.com/mIqpnse.png"
-   }
+   },{
+     "id": 17,
+     "name": "HTTP Ace Proxy",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/revancedextendedmusic.apk",
+     "versionKey": "httpaceproxy",
+     "versionName": "0.001",
+    "isTvApp": false,
+    "isMobileApp": true,
+     "packageName": "com.jopsis.httpaceserveproxy",
+     "imageUrl": "https://i.imgur.com/mIqpnse.png"
+  }
 ]
