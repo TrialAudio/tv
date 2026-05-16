@@ -187,9 +187,9 @@
    },{
      "id": 17,
      "name": "HTTP Ace Proxy",
-     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceproxyserver.apk",
-    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceproxyserver.apk",
-    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceproxyserver.apk",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceserveproxy.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceserveproxy.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/httpaceserveproxy.apk",
      "versionKey": "httpaceproxy",
      "versionName": "0.001",
     "isTvApp": true,
