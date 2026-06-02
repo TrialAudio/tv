@@ -196,5 +196,17 @@
     "isMobileApp": true,
      "packageName": "com.jopsis.httpaceserveproxy",
      "imageUrl": "https://i.imgur.com/mIqpnse.png"
+  },{
+     "id": 18,
+     "name": "Brave",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+     "versionKey": "brave",
+     "versionName": "0.001",
+    "isTvApp": true,
+    "isMobileApp": false,
+     "packageName": "com.brave.browser",
+     "imageUrl": "https://i.imgur.com/mIqpnse.png"
   }
 ]
