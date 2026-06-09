@@ -204,9 +204,21 @@
     "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
      "versionKey": "brave",
      "versionName": "0.001",
-    "isTvApp": true,
+    "isTvApp": false,
     "isMobileApp": false,
      "packageName": "com.brave.browser",
+     "imageUrl": "https://i.imgur.com/FRRVzCY.png"
+  },{
+     "id": 19,
+     "name": "WebPlayer",
+     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+    "downloadUrlTV": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+    "downloadUrlMobile": "https://github.com/TrialAudio/tv/releases/download/TV2/brave.apk",
+     "versionKey": "webplayer",
+     "versionName": "0.001",
+    "isTvApp": true,
+    "isMobileApp": true,
+     "packageName": "com.webplayer.firetv",
      "imageUrl": "https://i.imgur.com/FRRVzCY.png"
   }
 ]
