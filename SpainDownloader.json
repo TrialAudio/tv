@@ -81,7 +81,7 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "smarttube",
-    "versionName": "0.005",
+    "versionName": "0.006",
     "isTvApp": true,
     "isMobileApp": false,
     "packageName": "org.smarttube.stable",
