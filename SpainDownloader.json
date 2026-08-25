@@ -197,5 +197,18 @@
     "isMobileApp": false,
     "packageName": "org.smarttube.stable",
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
+  },
+  {
+    "id": 18,
+    "name": "TDT Spain",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/tdtspain.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "tdtspain",
+    "versionName": "0.001",
+    "isTvApp": true,
+    "isMobileApp": false,
+    "packageName": "org.smarttube.stable",
+    "imageUrl": "https://i.imgur.com/qQCMCwb.png"
   }
 ]
