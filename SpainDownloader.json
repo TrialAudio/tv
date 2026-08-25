@@ -207,8 +207,8 @@
     "versionKey": "tdtspain",
     "versionName": "0.001",
     "isTvApp": true,
-    "isMobileApp": false,
-    "packageName": "org.smarttube.stable",
-    "imageUrl": "https://i.imgur.com/qQCMCwb.png"
+    "isMobileApp": true,
+    "packageName": "com.tv.tdtspain2026",
+    "imageUrl": "https://i.imgur.com/AEtuzfP.png"
   }
 ]
