@@ -88,6 +88,19 @@
     "imageUrl": "https://i.imgur.com/qQCMCwb.png"
   },
   {
+    "id": 8,
+    "name": "Tizentube",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/tizentube.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "tizentube",
+    "versionName": "0.001",
+    "isTvApp": true,
+    "isMobileApp": false,
+    "packageName": "org.tizentube",
+    "imageUrl": "https://i.imgur.com/hdn66JQ.png"
+  },
+  {
     "id": 9,
     "name": "MicroG YT",
     "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/microg.apk",
