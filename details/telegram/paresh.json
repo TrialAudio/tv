@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "versionKey": "telegram",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "org.telegram.messenger.web",
+  "baseVersion": "12.9.2",
+  "sizeBytes": 85798354,
+  "sha256": "c89db65ab88baeed390c2f3782880ed114d71ae165b960490e6d0a1fe7b4822c",
+  "sources": [
+    {
+      "name": "Paresh",
+      "version": "1.20.1",
+      "url": "https://gitlab.com/Paresh-Maheshwari/paresh-patches",
+      "author": "Paresh-Maheshwari"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Disable auto update",
+      "description": "Disables automatic app update checks.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Remove ads",
+      "description": "Removes sponsored messages and video ads.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Anti-delete messages",
+      "description": "Prevents deleted messages from being removed locally.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Anti-disappearing media",
+      "description": "Keeps view-once and self-destructing media viewable forever.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Bypass channel restrictions",
+      "description": "Allows opening copyrighted, sensitive, and temporarily disabled channels.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Bypass content restrictions",
+      "description": "Allows saving from restricted channels.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Download speed boost",
+      "description": "Increases download chunk size and max concurrent requests.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Hide typing indicator",
+      "description": "Hides your typing indicator from other users.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Bypass integrity",
+      "description": "Bypasses integrity check to allow login on patched app.",
+      "source": "Paresh"
+    },
+    {
+      "name": "Telegram Premium",
+      "description": "Unlocks premium features.",
+      "source": "Paresh"
+    }
+  ]
+}

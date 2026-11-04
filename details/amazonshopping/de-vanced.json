@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "versionKey": "amazonshopping",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "com.amazon.mShop.android.shopping",
+  "baseVersion": "32.20.2.100",
+  "sizeBytes": 223570792,
+  "sha256": "8b31f3184fe760d517688bb29f2e83ec73a71ff612fc9d7b1a73d1a767ba2988",
+  "sources": [
+    {
+      "name": "De-Vanced",
+      "version": "1.6.4",
+      "url": "https://github.com/RookieEnough/De-Vanced",
+      "author": "RookieEnough"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Always allow deep-linking",
+      "description": "Open Amazon links, even if the app is not set to handle Amazon links.",
+      "source": "De-Vanced"
+    }
+  ]
+}

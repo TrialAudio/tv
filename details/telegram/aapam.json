@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "versionKey": "telegram",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "org.telegram.messenger.web",
+  "baseVersion": "12.8.3",
+  "sizeBytes": 83696730,
+  "sha256": "d3c6fe41676939dab30e6935822d09f9fd1ccfd02ef6302c872e626ec838a007",
+  "sources": [
+    {
+      "name": "aapam",
+      "version": "1.5.0",
+      "url": "https://github.com/WZSE/aapam-patches",
+      "author": "WZSE"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Anti-disappearing media",
+      "description": "Keeps view-once and self-destructing media viewable forever; the sender sees them as expired.",
+      "source": "aapam"
+    }
+  ]
+}

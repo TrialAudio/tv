@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "versionKey": "amazonshopping",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "com.amazon.mShop.android.shopping",
+  "baseVersion": "32.13.2.100",
+  "sizeBytes": 243248425,
+  "sha256": "3f089e953da0a60dd567704d48f43dd9fb53597100c185af7d7428e6a709c493",
+  "sources": [
+    {
+      "name": "Debakar",
+      "version": "1.9.0",
+      "url": "https://github.com/debakarr/morphe-patches",
+      "author": "debakarr"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Install alongside original",
+      "description": "Installs the patched app under its own package name and app name, so the original app stays installed. Push notifications and some sign-in options may not work in the separate copy. Disable it to replace the original app instead.",
+      "source": "Debakar"
+    }
+  ]
+}

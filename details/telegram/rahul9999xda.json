@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "versionKey": "telegram",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "org.telegram.messenger.web",
+  "baseVersion": "13.1.1",
+  "sizeBytes": 74492200,
+  "sha256": "c52d6a2e17d9de3f1b8e8edb03a1f31fafdb77c71927a2791492c709d9202af2",
+  "sources": [
+    {
+      "name": "Rahul9999xda",
+      "version": "1.17.0",
+      "url": "https://github.com/rahul9999xda/morphe-patches",
+      "author": "rahul9999xda"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Disable auto-update",
+      "description": "Disables Telegram update availability, update-version storage and proxy sponsor-channel insertion.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Remove ads",
+      "description": "Removes sponsored messages and video ads. On Telegram Plus also blocks current and legacy Plus ad-loader entry points.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Anti-delete messages",
+      "description": "Prevents messages deleted by other users from being removed locally.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Anti-disappearing media",
+      "description": "Keeps view-once photos, videos and voice messages viewable indefinitely without modifying SecretMediaViewer lifecycle callbacks.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Anti-screenshot notification",
+      "description": "Blocks screenshot notifications from being sent to the other user.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Bypass channel restrictions",
+      "description": "Allows opening and viewing content from restricted, sensitive, and copyright-restricted channels.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Bypass content restrictions",
+      "description": "Allows saving and forwarding content from restricted channels, chats, and users.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Use normal paste for Rich HTML clipboard content",
+      "description": "Bypasses Telegram's custom Rich HTML clipboard handling and delegates paste to the normal superclass implementation.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Download speed boost",
+      "description": "Increases download chunk size to 1 MB and max concurrent requests to 12.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Hide Stories read status",
+      "description": "Prevents the client from processing and sending Stories read receipts.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Voice to music",
+      "description": "Plays voice notes through the music-player path while preserving Raise-to-Listen.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Hide typing indicator",
+      "description": "Blocks Telegram's controller-level sendTyping dispatch on audited Telegram/Web 13.1.1 and Plus 13.1.1.0 builds.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Bypass integrity check",
+      "description": "Spoofs certificate fingerprint and SafetyNet results so login works on patched APK.",
+      "source": "Rahul9999xda"
+    },
+    {
+      "name": "Unlock Premium",
+      "description": "Unlocks Telegram Premium features for the current account.",
+      "source": "Rahul9999xda"
+    }
+  ]
+}

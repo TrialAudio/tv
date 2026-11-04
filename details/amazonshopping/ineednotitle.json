@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "versionKey": "amazonshopping",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "com.amazon.mShop.android.shopping",
+  "baseVersion": "32.18.0.100",
+  "sizeBytes": 228762843,
+  "sha256": "ba490a5bf0d874781fde37b83bc2499d93725722eed8aa2564cbdcef86d23c0f",
+  "sources": [
+    {
+      "name": "Ineednotitle",
+      "version": "2.1.1",
+      "url": "https://github.com/ineednotitle/Proteus-Patches",
+      "author": "ineednotitle"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Dark mode",
+      "description": "Force dark mode for Amazon Shopping.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Disable video autoplay",
+      "description": "Prevents videos from autoplaying in Amazon's in-app WebView pages.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Hide Rufus tab",
+      "description": "Removes the Rufus AI assistant tab from Amazon's bottom navigation bar.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Fix Amazon manifest conflicts",
+      "description": "Updates shared Amazon permissions so other Amazon apps can coexist.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Disable search suggestions tracking",
+      "description": "Prevents search keypress and focus events from being sent with suggestion requests.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Open links in browser",
+      "description": "Opens non-Amazon URLs in the default browser instead of the in-app WebView.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Price history charts",
+      "description": "Injects Keepa and CamelCamelCamel price history charts on Amazon product pages.",
+      "source": "Ineednotitle"
+    },
+    {
+      "name": "Remove ads",
+      "description": "Hides sponsored and ad content in Amazon Shopping via CSS injection.",
+      "source": "Ineednotitle"
+    }
+  ]
+}

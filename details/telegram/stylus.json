@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "versionKey": "telegram",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "org.telegram.messenger.web",
+  "baseVersion": "13.1.0",
+  "sizeBytes": 72137000,
+  "sha256": "c2634484cb39b4afe0a1138936a8ec9e83851f8b56cf582612b3b8907771049a",
+  "sources": [
+    {
+      "name": "Stylus",
+      "version": "1.9.1",
+      "url": "https://github.com/ch3thanhs/stylus",
+      "author": "ch3thanhs"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Force system font",
+      "description": "Uses the device's system font for all app text.",
+      "source": "Stylus"
+    }
+  ]
+}

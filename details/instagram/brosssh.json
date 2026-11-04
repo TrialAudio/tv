@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "versionKey": "instagram",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "com.instagram.android",
+  "baseVersion": "439.0.0.37.89",
+  "sizeBytes": 141312598,
+  "sha256": "7eb58719b4b34778a94511c04aa7ee728ed95f4c8ac662ad6d21547d88d164e3",
+  "sources": [
+    {
+      "name": "Brosssh",
+      "version": "2.8.2",
+      "url": "https://github.com/brosssh/morphe-patches",
+      "author": "brosssh"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Disable Reels scrolling",
+      "description": "Disables the endless scrolling behavior in Instagram Reels, preventing swiping to the next Reel. Note: On a clean install, the 'Tip' animation may appear but will stop on its own after a few seconds.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Disable story auto flipping",
+      "description": "Disable stories automatically flipping/skipping after some seconds.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide ads",
+      "description": "null",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide explore feed",
+      "description": "Hides posts and reels from the explore/search page.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide navigation buttons",
+      "description": "Hides navigation bar buttons, such as the Reels and Create button. Choose what button to hide using the patch options.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide notes tray",
+      "description": "Hides the notes tray from the direct tab.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide reshare button",
+      "description": "Hides the reshare button from both posts and reels.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Hide suggested content",
+      "description": "Choose the suggested content to hide using the patch options.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Limit feed to following profiles",
+      "description": "Filters the home feed to display only content from profiles you follow.",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Bypass signature check",
+      "description": "null",
+      "source": "Brosssh"
+    },
+    {
+      "name": "Remove build expired popup",
+      "description": "Removes the popup that appears after a while, when the app version ages.",
+      "source": "Brosssh"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "versionKey": "amazonshopping",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T22:34:18Z",
+  "basePackage": "com.amazon.mShop.android.shopping",
+  "baseVersion": "32.19.0.100",
+  "sizeBytes": 229612102,
+  "sha256": "c7f25c8ed0a371b13978573d293475b46cd5dc30d55be12b5a78f43ec4f5c84e",
+  "sources": [
+    {
+      "name": "Doom",
+      "version": "1.23.1",
+      "url": "https://github.com/rushiranpise/morphe-patches",
+      "author": "rushiranpise"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Dark mode",
+      "description": "Force dark mode for Amazon Shopping.",
+      "source": "Doom"
+    },
+    {
+      "name": "Disable video autoplay",
+      "description": "Prevents videos from autoplaying in Amazon's in-app WebView pages.",
+      "source": "Doom"
+    },
+    {
+      "name": "Hide Rufus tab",
+      "description": "Removes the Rufus AI assistant tab from Amazon's bottom navigation bar.",
+      "source": "Doom"
+    },
+    {
+      "name": "Fix Amazon manifest conflicts",
+      "description": "Updates shared Amazon permissions so other Amazon apps can coexist.",
+      "source": "Doom"
+    },
+    {
+      "name": "Disable search suggestions tracking",
+      "description": "Prevents search keypress and focus events from being sent with suggestion requests.",
+      "source": "Doom"
+    },
+    {
+      "name": "Open links in browser",
+      "description": "Opens non-Amazon URLs in the default browser instead of the in-app WebView.",
+      "source": "Doom"
+    },
+    {
+      "name": "Price history charts",
+      "description": "Injects Keepa and CamelCamelCamel price history charts on Amazon product pages.",
+      "source": "Doom"
+    },
+    {
+      "name": "Remove ads",
+      "description": "Hides sponsored and ad content in Amazon Shopping via CSS injection.",
+      "source": "Doom"
+    }
+  ]
+}
