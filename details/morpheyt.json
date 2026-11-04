@@ -1,23 +1,17 @@
 {
   "schema": 1,
   "versionKey": "morpheyt",
-  "versionName": "0.014",
-  "updatedAt": "2026-11-04T20:35:53Z",
+  "versionName": "0.015",
+  "updatedAt": "2026-11-04T21:57:52Z",
   "basePackage": "com.google.android.youtube",
   "baseVersion": "21.30.216",
-  "sizeBytes": 221048344,
-  "sha256": "ed49e68536ac6d5e9b4c68cca09ebbe0e61b7fb31c3ce9cde3ec2563250710af",
+  "sizeBytes": 221015517,
+  "sha256": "48f1bd17fcf919f69a21a1410bb5ac0f68af98470ff534077ec96e5c50aec15c",
   "sources": [
     {
       "name": "Morphe Patches",
       "version": "2.0.0",
       "url": "https://github.com/MorpheApp/morphe-patches"
-    },
-    {
-      "name": "DanielTheManiel",
-      "version": "1.6.0",
-      "url": "https://github.com/Dan1elTheMan1el/Morphe-Patches",
-      "author": "Dan1elTheMan1el"
     }
   ],
   "patches": [
@@ -560,11 +554,6 @@
       "name": "Voice over translation",
       "description": "Adds additional voice over languages using text-to-speech synchronized to the video playback.",
       "source": "Morphe Patches"
-    },
-    {
-      "name": "Current Frame Media Artwork",
-      "description": "Adds an in-player control that updates the media artwork from the current video frame, including while the screen is off, and can blank the media title.",
-      "source": "DanielTheManiel"
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "versionKey": "twitch",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T21:57:52Z",
+  "basePackage": "tv.twitch.android.app",
+  "baseVersion": "31.8.0",
+  "sizeBytes": 348708318,
+  "sha256": "e8a40a774c013474d7102e3aa7be60ba845d8959c5559fce10fbb0133df157db",
+  "sources": [
+    {
+      "name": "Ryykitty",
+      "version": "1.5.0",
+      "url": "https://github.com/ryykitty/twitch-patched",
+      "author": "ryykitty"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Block client-requested ads",
+      "description": "Blocks native player ad requests. Restart Twitch after changing this setting.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Hide feed and display ads",
+      "description": "Hides sponsored feed cards, banners and display ads.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Block stream ads",
+      "description": "Replaces detected preroll and midroll ads with direct Twitch playback.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Auto-claim bonus channel points",
+      "description": "Automatically claims bonus channel points while watching live streams.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Show deleted messages",
+      "description": "Keeps deleted and moderated chat messages readable.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Favorite emotes",
+      "description": "Adds a Favorites section to the emote picker, filled from the picker and from emote cards.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "BTTV, FFZ and 7TV emotes",
+      "description": "Adds global and channel emotes to chat, autocomplete and the emote picker, with animations and input previews.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Hide subscription discount banners",
+      "description": "Hides subscription offers, discount banners and promotional labels.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Hide Turbo promotions",
+      "description": "Hides Twitch Turbo promotions and purchase prompts.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "Reload stream",
+      "description": "Reloads live streams with a double-tap control.",
+      "source": "Ryykitty"
+    },
+    {
+      "name": "UI settings",
+      "description": "Customizes player controls, channel actions, extensions, Hype Trains, leaderboards and fullscreen system bars.",
+      "source": "Ryykitty"
+    }
+  ]
+}

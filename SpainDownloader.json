@@ -107,11 +107,41 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "morpheyt",
-    "versionName": "0.014",
+    "versionName": "0.015",
     "isTvApp": false,
     "isMobileApp": true,
     "packageName": "app.morphe.android.youtube",
-    "imageUrl": "https://i.imgur.com/5rSJmpP.png"
+    "imageUrl": "https://i.imgur.com/5rSJmpP.png",
+    "variants": [
+      {
+        "id": "official",
+        "name": "Morphe oficial",
+        "author": "Morphe",
+        "baseVersion": "21.30.216",
+        "versionName": "0.015",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemorphe.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheyt/official.json",
+        "patchCount": 108,
+        "sizeBytes": 221015517,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:55:37Z",
+        "recommended": true
+      },
+      {
+        "id": "danielthemaniel",
+        "name": "DanielTheManiel",
+        "author": "Dan1elTheMan1el",
+        "baseVersion": "21.30.216",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemorphe-danielthemaniel.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheyt/danielthemaniel.json",
+        "patchCount": 109,
+        "sizeBytes": 221048344,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:55:48Z",
+        "recommended": false
+      }
+    ]
   },
   {
     "id": 11,
@@ -120,11 +150,55 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "morpheytmusic",
-    "versionName": "0.012",
+    "versionName": "0.013",
     "isTvApp": false,
     "isMobileApp": true,
     "packageName": "app.morphe.android.apps.youtube.music",
-    "imageUrl": "https://i.imgur.com/BAk4JDh.jpeg"
+    "imageUrl": "https://i.imgur.com/BAk4JDh.jpeg",
+    "variants": [
+      {
+        "id": "official",
+        "name": "Morphe oficial",
+        "author": "Morphe",
+        "baseVersion": "9.30.53",
+        "versionName": "0.013",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemusicmorphe.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheytmusic/official.json",
+        "patchCount": 48,
+        "sizeBytes": 80100388,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:55:55Z",
+        "recommended": true
+      },
+      {
+        "id": "mormislaw",
+        "name": "Mormislaw",
+        "author": "mormislaw",
+        "baseVersion": "9.30.53",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemusicmorphe-mormislaw.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheytmusic/mormislaw.json",
+        "patchCount": 48,
+        "sizeBytes": 80100388,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:56:01Z",
+        "recommended": false
+      },
+      {
+        "id": "johninnl",
+        "name": "JohnInNL",
+        "author": "johninnld",
+        "baseVersion": "9.30.53",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemusicmorphe-johninnl.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheytmusic/johninnl.json",
+        "patchCount": 49,
+        "sizeBytes": 81575066,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:56:08Z",
+        "recommended": false
+      }
+    ]
   },
   {
      "id": 12,
@@ -185,5 +259,116 @@
     "isMobileApp": true,
     "packageName": "com.tv.tdtspain2026",
     "imageUrl": "https://i.imgur.com/AEtuzfP.png"
+  },
+  {
+    "id": 19,
+    "name": "Twitch",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-arandomhooman.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "twitch",
+    "versionName": "0.001",
+    "packageName": "tv.twitch.android.app",
+    "imageUrl": "https://play-lh.googleusercontent.com/JHCM4AIyomRp6Lo2-5ugoznlGdsZmNnejVN8DLvtWFHShcz8YRgUE170f1CyOfrleYbtFL2g8tQ3VqlQNAgqoA=s128-rw",
+    "variants": [
+      {
+        "id": "arandomhooman",
+        "name": "aRandomHooman",
+        "author": "arandomhooman",
+        "baseVersion": "30.7.2",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-arandomhooman.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/arandomhooman.json",
+        "patchCount": 7,
+        "sizeBytes": 210550535,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:56:20Z",
+        "recommended": true
+      },
+      {
+        "id": "jordanwoodson",
+        "name": "JordanWoodson",
+        "author": "jordanwoodson",
+        "baseVersion": "31.9.0",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-jordanwoodson.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/jordanwoodson.json",
+        "patchCount": 42,
+        "sizeBytes": 348508401,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:56:37Z",
+        "recommended": false
+      },
+      {
+        "id": "ryykitty",
+        "name": "Ryykitty",
+        "author": "ryykitty",
+        "baseVersion": "31.8.0",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-ryykitty.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/ryykitty.json",
+        "patchCount": 11,
+        "sizeBytes": 348708318,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:56:56Z",
+        "recommended": false
+      },
+      {
+        "id": "canic",
+        "name": "Canic",
+        "author": "Canic",
+        "baseVersion": "30.5.0",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-canic.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/canic.json",
+        "patchCount": 5,
+        "sizeBytes": 211294561,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:57:08Z",
+        "recommended": false
+      },
+      {
+        "id": "bakwudo",
+        "name": "Bakwudo",
+        "author": "bakwudo",
+        "baseVersion": "31.3.1",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-bakwudo.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/bakwudo.json",
+        "patchCount": 7,
+        "sizeBytes": 180780083,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:57:20Z",
+        "recommended": false
+      },
+      {
+        "id": "kizu",
+        "name": "Kizu",
+        "author": "K8R8TO",
+        "baseVersion": "31.3.1",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-kizu.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/kizu.json",
+        "patchCount": 1,
+        "sizeBytes": 181734530,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:57:32Z",
+        "recommended": false
+      },
+      {
+        "id": "overhypedcat",
+        "name": "Overhypedcat",
+        "author": "Overhypedcat",
+        "baseVersion": "31.8.0",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-overhypedcat.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/overhypedcat.json",
+        "patchCount": 4,
+        "sizeBytes": 348827025,
+        "downloads": 0,
+        "updatedAt": "2026-11-04T21:57:49Z",
+        "recommended": false
+      }
+    ]
   }
 ]

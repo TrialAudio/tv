@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "versionKey": "twitch",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-04T21:57:52Z",
+  "basePackage": "tv.twitch.android.app",
+  "baseVersion": "31.3.1",
+  "sizeBytes": 181734530,
+  "sha256": "9046175dda76437efb27bd34c2a75380dce5ddf8c2b8e58a51316f809c77f35a",
+  "sources": [
+    {
+      "name": "Kizu",
+      "version": "2.1.0",
+      "url": "https://github.com/K8R8TO/kizu-morphe-patches",
+      "author": "K8R8TO"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Twitch Enhancement",
+      "description": "Kizu Twitch enhancements: third-party emotes, danmaku chat, live ad blocking, appearance controls including a toggle to hide Stream Extensions, deleted-message display, privacy controls, native Video Stats and single-tap Reload Stream, PurpleTV-style landscape brightness/volume gestures with swipe-to-portrait collapse prevention, Hide Stories, Go Ad-Free hiding, and patched-app compatibility.",
+      "source": "Kizu"
+    }
+  ]
+}

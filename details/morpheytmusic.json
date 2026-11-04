@@ -1,29 +1,17 @@
 {
   "schema": 1,
   "versionKey": "morpheytmusic",
-  "versionName": "0.012",
-  "updatedAt": "2026-11-04T20:35:53Z",
+  "versionName": "0.013",
+  "updatedAt": "2026-11-04T21:57:52Z",
   "basePackage": "com.google.android.apps.youtube.music",
   "baseVersion": "9.30.53",
-  "sizeBytes": 81575066,
-  "sha256": "49accce6bdee985564c951a4694104d72994dd793d5c6a8ffb6b2cfffce67ff3",
+  "sizeBytes": 80100388,
+  "sha256": "913d18c2f4524d16b9b0642978ec0eccae21b8d2a3478f0c321f82fcb2e9948a",
   "sources": [
     {
       "name": "Morphe Patches",
       "version": "2.0.0",
       "url": "https://github.com/MorpheApp/morphe-patches"
-    },
-    {
-      "name": "Mormislaw",
-      "version": "1.0.0",
-      "url": "https://github.com/mormislaw/zeekr-adapt-morphe-patches",
-      "author": "mormislaw"
-    },
-    {
-      "name": "JohnInNL",
-      "version": "1.38.0",
-      "url": "https://gitlab.com/johninnld/nl-morphe-patches",
-      "author": "johninnld"
     }
   ],
   "patches": [
@@ -266,11 +254,6 @@
       "name": "Playback speed",
       "description": "Adds options to change the playback speed and pitch of tracks.",
       "source": "Morphe Patches"
-    },
-    {
-      "name": "Gearslip music browser support",
-      "description": "Adds Gearslip access to personal Home and Library using the app's existing account. Enable Morphe's Android Auto patch alongside it. Verifies the real Android caller identity.",
-      "source": "JohnInNL"
     }
   ]
 }
