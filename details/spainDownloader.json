@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "versionKey": "spainDownloader",
-  "versionName": "0.026",
-  "updatedAt": "2026-11-04T21:00:16Z",
+  "versionName": "0.027",
+  "updatedAt": "2026-11-04T21:18:47Z",
   "basePackage": "pablo.baro.spaindownloader",
   "baseVersion": "1.1",
   "sizeBytes": 4393528,
-  "sha256": "0f69b67781af459a0a631e30592f87c5747e43340299c042b61e3ede0032651b",
+  "sha256": "4742419ac0cee46a463a0adba7fe2de5ecabb0c44343d1560aef1b53e5464dc8",
   "sources": [],
   "patches": []
 }
