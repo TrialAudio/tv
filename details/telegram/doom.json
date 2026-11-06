@@ -2,7 +2,7 @@
   "schema": 1,
   "versionKey": "telegram",
   "versionName": "0.001",
-  "updatedAt": "2026-11-04T22:34:18Z",
+  "updatedAt": "2026-11-04T22:32:29Z",
   "basePackage": "org.telegram.messenger.web",
   "baseVersion": "12.10.1",
   "sizeBytes": 77576183,

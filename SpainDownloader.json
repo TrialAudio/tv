@@ -107,7 +107,7 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "morpheyt",
-    "versionName": "0.015",
+    "versionName": "0.016",
     "isTvApp": false,
     "isMobileApp": true,
     "packageName": "app.morphe.android.youtube",
@@ -118,13 +118,13 @@
         "name": "Morphe oficial",
         "author": "Morphe",
         "baseVersion": "21.30.216",
-        "versionName": "0.015",
+        "versionName": "0.016",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemorphe.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheyt/official.json",
-        "patchCount": 108,
-        "sizeBytes": 221015517,
+        "patchCount": 112,
+        "sizeBytes": 222203447,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:55:37Z",
+        "updatedAt": "2026-11-06T17:16:42Z",
         "recommended": true
       },
       {
@@ -132,13 +132,27 @@
         "name": "DanielTheManiel",
         "author": "Dan1elTheMan1el",
         "baseVersion": "21.30.216",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemorphe-danielthemaniel.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheyt/danielthemaniel.json",
-        "patchCount": 109,
-        "sizeBytes": 221048344,
+        "patchCount": 113,
+        "sizeBytes": 222232178,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:55:48Z",
+        "updatedAt": "2026-11-06T17:16:57Z",
+        "recommended": false
+      },
+      {
+        "id": "vaas1k",
+        "name": "Vaas1k",
+        "author": "vaas1k",
+        "baseVersion": "21.30.216",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemorphe-vaas1k.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheyt/vaas1k.json",
+        "patchCount": 113,
+        "sizeBytes": 222207685,
+        "downloads": 0,
+        "updatedAt": "2026-11-06T17:17:07Z",
         "recommended": false
       }
     ]
@@ -150,7 +164,7 @@
     "downloadUrlTV": "",
     "downloadUrlMobile": "",
     "versionKey": "morpheytmusic",
-    "versionName": "0.013",
+    "versionName": "0.014",
     "isTvApp": false,
     "isMobileApp": true,
     "packageName": "app.morphe.android.apps.youtube.music",
@@ -161,13 +175,13 @@
         "name": "Morphe oficial",
         "author": "Morphe",
         "baseVersion": "9.30.53",
-        "versionName": "0.013",
+        "versionName": "0.014",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemusicmorphe.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheytmusic/official.json",
-        "patchCount": 48,
-        "sizeBytes": 80100388,
+        "patchCount": 50,
+        "sizeBytes": 81387069,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:55:55Z",
+        "updatedAt": "2026-11-06T17:17:13Z",
         "recommended": true
       },
       {
@@ -189,13 +203,13 @@
         "name": "JohnInNL",
         "author": "johninnld",
         "baseVersion": "9.30.53",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/youtubemusicmorphe-johninnl.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/morpheytmusic/johninnl.json",
-        "patchCount": 49,
-        "sizeBytes": 81575066,
+        "patchCount": 51,
+        "sizeBytes": 82861747,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:56:08Z",
+        "updatedAt": "2026-11-06T17:17:20Z",
         "recommended": false
       }
     ]
@@ -289,14 +303,14 @@
         "id": "jordanwoodson",
         "name": "JordanWoodson",
         "author": "jordanwoodson",
-        "baseVersion": "31.9.0",
-        "versionName": "0.001",
+        "baseVersion": "31.8.0",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-jordanwoodson.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/jordanwoodson.json",
         "patchCount": 42,
-        "sizeBytes": 348508401,
+        "sizeBytes": 348676419,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:56:37Z",
+        "updatedAt": "2026-11-06T17:17:41Z",
         "recommended": false
       },
       {
@@ -304,13 +318,13 @@
         "name": "Ryykitty",
         "author": "ryykitty",
         "baseVersion": "31.8.0",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-ryykitty.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/ryykitty.json",
         "patchCount": 11,
         "sizeBytes": 348708318,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:56:56Z",
+        "updatedAt": "2026-11-06T17:18:02Z",
         "recommended": false
       },
       {
@@ -346,13 +360,13 @@
         "name": "Kizu",
         "author": "K8R8TO",
         "baseVersion": "31.3.1",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/twitch-kizu.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/twitch/kizu.json",
         "patchCount": 1,
         "sizeBytes": 181734530,
         "downloads": 0,
-        "updatedAt": "2026-11-04T21:57:32Z",
+        "updatedAt": "2026-11-06T17:18:12Z",
         "recommended": false
       },
       {
@@ -456,13 +470,27 @@
         "name": "Stylus",
         "author": "ch3thanhs",
         "baseVersion": "13.1.0",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/telegram-stylus.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/telegram/stylus.json",
         "patchCount": 1,
         "sizeBytes": 72137000,
         "downloads": 0,
-        "updatedAt": "2026-11-04T22:32:47Z",
+        "updatedAt": "2026-11-06T17:18:18Z",
+        "recommended": false
+      },
+      {
+        "id": "ineednotitle",
+        "name": "Ineednotitle",
+        "author": "ineednotitle",
+        "baseVersion": "12.10.1",
+        "versionName": "0.002",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/telegram-ineednotitle.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/telegram/ineednotitle.json",
+        "patchCount": 14,
+        "sizeBytes": 77563895,
+        "downloads": 0,
+        "updatedAt": "2026-11-06T17:18:25Z",
         "recommended": false
       },
       {
@@ -477,20 +505,6 @@
         "sizeBytes": 74492200,
         "downloads": 0,
         "updatedAt": "2026-11-04T22:32:52Z",
-        "recommended": false
-      },
-      {
-        "id": "ineednotitle",
-        "name": "Ineednotitle",
-        "author": "ineednotitle",
-        "baseVersion": "12.10.1",
-        "versionName": "0.001",
-        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/telegram-ineednotitle.apk",
-        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/telegram/ineednotitle.json",
-        "patchCount": 14,
-        "sizeBytes": 77551607,
-        "downloads": 0,
-        "updatedAt": "2026-11-04T22:32:58Z",
         "recommended": false
       },
       {
@@ -581,13 +595,13 @@
         "name": "Semicoloncolonel",
         "author": "semicoloncolonel",
         "baseVersion": "32.19.0.100",
-        "versionName": "0.001",
+        "versionName": "0.002",
         "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/amazonshopping-semicoloncolonel.apk",
         "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/amazonshopping/semicoloncolonel.json",
         "patchCount": 1,
-        "sizeBytes": 228842054,
+        "sizeBytes": 228858438,
         "downloads": 0,
-        "updatedAt": "2026-11-04T22:33:59Z",
+        "updatedAt": "2026-11-06T17:18:48Z",
         "recommended": false
       },
       {
@@ -603,6 +617,33 @@
         "downloads": 0,
         "updatedAt": "2026-11-04T22:34:14Z",
         "recommended": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Spotify",
+    "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify-pablobaro.apk",
+    "downloadUrlTV": "",
+    "downloadUrlMobile": "",
+    "versionKey": "spotify",
+    "versionName": "0.001",
+    "packageName": "com.spotify.music",
+    "imageUrl": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=s128-rw",
+    "variants": [
+      {
+        "id": "pablobaro",
+        "name": "Pablobaro",
+        "author": "pablobaro",
+        "baseVersion": "9.1.94.1929",
+        "versionName": "0.001",
+        "downloadUrl": "https://github.com/TrialAudio/tv/releases/download/TV2/spotify-pablobaro.apk",
+        "detailsUrl": "https://raw.githubusercontent.com/TrialAudio/tv/refs/heads/main/details/spotify/pablobaro.json",
+        "patchCount": 8,
+        "sizeBytes": 155686552,
+        "downloads": 0,
+        "updatedAt": "2026-11-06T17:18:36Z",
+        "recommended": true
       }
     ]
   }

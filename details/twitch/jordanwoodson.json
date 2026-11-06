@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "twitch",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "tv.twitch.android.app",
-  "baseVersion": "31.9.0",
-  "sizeBytes": 348508401,
-  "sha256": "7b06502a20d4cb45a49ba27936d011dd9b82abc19886674e833648e475231d5b",
+  "baseVersion": "31.8.0",
+  "sizeBytes": 348676419,
+  "sha256": "8852509a79f6c1b9dfb4396f861265ff527886525901146e6ff96403ddaae7dd",
   "sources": [
     {
       "name": "JordanWoodson",
-      "version": "1.16.0",
+      "version": "1.16.1",
       "url": "https://github.com/jordanwoodson/lurk-morphe-patches",
       "author": "jordanwoodson"
     }
@@ -82,13 +82,13 @@
       "source": "JordanWoodson"
     },
     {
-      "name": "Compact chat",
-      "description": "Adds switches that leave chatters' badges out of native chat lines (Twitch's and third-party ones) and show emotes as their text, so no emote images load. Native live chat, chat history and VOD chat replay; React Native chat is unchanged. Starts off. Turn it on in Lurk settings > Chat.",
+      "name": "Highlight first-time chatters",
+      "description": "Tints a chatter's first message in a channel in native live chat, using the first-msg tag Twitch's chat server puts on it. Chat history, VOD replay and React Native chat carry no such tag. Starts off. Turn it on in Lurk settings > Chat.",
       "source": "JordanWoodson"
     },
     {
-      "name": "Highlight first-time chatters",
-      "description": "Tints a chatter's first message in a channel in native live chat, using the first-msg tag Twitch's chat server puts on it. Chat history, VOD replay and React Native chat carry no such tag. Starts off. Turn it on in Lurk settings > Chat.",
+      "name": "Compact chat",
+      "description": "Adds switches that leave chatters' badges out of native chat lines (Twitch's and third-party ones) and show emotes as their text, so no emote images load. Native live chat, chat history and VOD chat replay; React Native chat is unchanged. Starts off. Turn it on in Lurk settings > Chat.",
       "source": "JordanWoodson"
     },
     {

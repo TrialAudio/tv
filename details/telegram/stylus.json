@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "telegram",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T22:34:18Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "org.telegram.messenger.web",
   "baseVersion": "13.1.0",
   "sizeBytes": 72137000,
-  "sha256": "c2634484cb39b4afe0a1138936a8ec9e83851f8b56cf582612b3b8907771049a",
+  "sha256": "a3237ba8c52a7dc5f65cded61e697cdc03fd29109b6d6ed7b495a17c095d3f08",
   "sources": [
     {
       "name": "Stylus",
-      "version": "1.9.1",
+      "version": "1.9.2",
       "url": "https://github.com/ch3thanhs/stylus",
       "author": "ch3thanhs"
     }

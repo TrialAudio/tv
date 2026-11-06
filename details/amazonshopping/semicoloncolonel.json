@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "amazonshopping",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T22:34:18Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "com.amazon.mShop.android.shopping",
   "baseVersion": "32.19.0.100",
-  "sizeBytes": 228842054,
-  "sha256": "46e25079a1a6745befbae3af7573993f69f0c3354a6ca1d4199fe3ead3f680c6",
+  "sizeBytes": 228858438,
+  "sha256": "edf77de41ea70a5675902590f336c5f1ebb03d8525a5a970ac5a10d3988261c7",
   "sources": [
     {
       "name": "Semicoloncolonel",
-      "version": "1.0.7",
+      "version": "1.0.12",
       "url": "https://github.com/semicoloncolonel/mobile-morphe-patches",
       "author": "semicoloncolonel"
     }
@@ -18,7 +18,7 @@
   "patches": [
     {
       "name": "Hide sponsored listings",
-      "description": "Hides sponsored products in Amazon search results and on product pages. Sponsored items in the app's native screens, such as some home page rows, may still show. Experimental.",
+      "description": "Hides sponsored products in search results and on product pages.",
       "source": "Semicoloncolonel"
     }
   ]

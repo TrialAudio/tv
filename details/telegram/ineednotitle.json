@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "telegram",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T22:34:18Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "org.telegram.messenger.web",
   "baseVersion": "12.10.1",
-  "sizeBytes": 77551607,
-  "sha256": "ceedb8b19111edd83c083467e915ce3f135ecfb03d713bb067aacd2c8619a998",
+  "sizeBytes": 77563895,
+  "sha256": "d5186fbe8c831d6f1fbe5f3567edbcfefcb2197eaefe385703585443de1409d1",
   "sources": [
     {
       "name": "Ineednotitle",
-      "version": "2.1.1",
+      "version": "2.2.8",
       "url": "https://github.com/ineednotitle/Proteus-Patches",
       "author": "ineednotitle"
     }

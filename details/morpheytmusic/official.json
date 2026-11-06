@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "morpheytmusic",
-  "versionName": "0.013",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "versionName": "0.014",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "com.google.android.apps.youtube.music",
   "baseVersion": "9.30.53",
-  "sizeBytes": 80100388,
-  "sha256": "913d18c2f4524d16b9b0642978ec0eccae21b8d2a3478f0c321f82fcb2e9948a",
+  "sizeBytes": 81387069,
+  "sha256": "e04fbc80c1ea23daaed86815cff52a78bb1227115c1ec5d98e22f33de4484a5c",
   "sources": [
     {
       "name": "Morphe Patches",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "url": "https://github.com/MorpheApp/morphe-patches"
     }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "name": "Downloads",
-      "description": "Adds support to download songs using the in-app download button, either with an external downloader app or inside YouTube Music.",
+      "description": "Adds support to download songs, albums and playlists using the in-app download button, either with an external downloader app or inside YouTube Music.",
       "source": "Morphe Patches"
     },
     {
@@ -63,6 +63,11 @@
     {
       "name": "Scrobbling",
       "description": "Adds options to add played tracks to Last.fm and ListenBrainz.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "SoundProof",
+      "description": "Adds an option to skip tracks of artists reported as AI in the SoundProof community database.",
       "source": "Morphe Patches"
     },
     {
@@ -112,7 +117,7 @@
     },
     {
       "name": "Third-party lyrics",
-      "description": "Adds an option to show synced lyrics with experience enhancement from 18+ providers in the lyrics panel.",
+      "description": "Adds an option to show synced lyrics with experience enhancement from 19+ providers in the lyrics panel.",
       "source": "Morphe Patches"
     },
     {
@@ -138,6 +143,11 @@
     {
       "name": "Force portrait orientation",
       "description": "Adds an option to keep the app in portrait orientation when the device is rotated.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Playlist tags",
+      "description": "Adds an option to tag playlists from their menu, and to filter the Library playlists by tag.",
       "source": "Morphe Patches"
     },
     {

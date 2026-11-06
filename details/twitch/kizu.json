@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "versionKey": "twitch",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "tv.twitch.android.app",
   "baseVersion": "31.3.1",
   "sizeBytes": 181734530,
-  "sha256": "9046175dda76437efb27bd34c2a75380dce5ddf8c2b8e58a51316f809c77f35a",
+  "sha256": "d13aabbfc16a5220e83ae34893fbd6754dd3b1f745a34f097bbfc0203a6d3882",
   "sources": [
     {
       "name": "Kizu",

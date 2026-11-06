@@ -2,7 +2,7 @@
   "schema": 1,
   "versionKey": "twitch",
   "versionName": "0.001",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "updatedAt": "2026-11-04T21:57:49Z",
   "basePackage": "tv.twitch.android.app",
   "baseVersion": "31.8.0",
   "sizeBytes": 348827025,

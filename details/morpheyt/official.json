@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "versionKey": "morpheyt",
-  "versionName": "0.015",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "versionName": "0.016",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "com.google.android.youtube",
   "baseVersion": "21.30.216",
-  "sizeBytes": 221015517,
-  "sha256": "48f1bd17fcf919f69a21a1410bb5ac0f68af98470ff534077ec96e5c50aec15c",
+  "sizeBytes": 222203447,
+  "sha256": "8978fcdcf6db9cee03a0b1b200e5e01f7655890e8014c52a129e3b3322f5904a",
   "sources": [
     {
       "name": "Morphe Patches",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "url": "https://github.com/MorpheApp/morphe-patches"
     }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "name": "Copy text",
-      "description": "Adds options to copy the video title and comments by tapping and holding them.",
+      "description": "Adds options to copy the video title and comments, and to select text of video descriptions and posts, by tapping and holding them.",
       "source": "Morphe Patches"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "name": "Downloads",
-      "description": "Adds support to download videos with an external downloader app using the in-app download button or a video player action button, and adds an option to download videos in-app.",
+      "description": "Adds support to download videos with an external downloader app using the in-app download button or a video player action button, adds an option to download videos in-app, and exports saved videos to the device.",
       "source": "Morphe Patches"
     },
     {
@@ -78,6 +78,11 @@
     {
       "name": "Loop video",
       "description": "Adds an option to loop videos and display loop video button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Change picture-in-picture actions",
+      "description": "Adds options to change the buttons shown in picture-in-picture mode.",
       "source": "Morphe Patches"
     },
     {
@@ -131,6 +136,11 @@
       "source": "Morphe Patches"
     },
     {
+      "name": "Watch later improvements",
+      "description": "Adds options to widen the drag handles of the Watch later videos and to hide the snackbar shown after removing a video.",
+      "source": "Morphe Patches"
+    },
+    {
       "name": "Force animations",
       "description": "Adds an option to always turn on or off the app animations that YouTube can turn off, such as the player transitions.",
       "source": "Morphe Patches"
@@ -157,12 +167,12 @@
     },
     {
       "name": "Hide player overlay buttons",
-      "description": "Adds options to hide the player Cast, Autoplay, Captions, Previous & Next buttons, and to hide or change the opacity of the player control buttons background.",
+      "description": "Adds options to hide the Cast button, the player Autoplay, Captions, Previous & Next buttons, and to hide or change the opacity of the player control buttons background.",
       "source": "Morphe Patches"
     },
     {
       "name": "Captions",
-      "description": "Adds options to disable captions from being automatically enabled, select a preferred caption language, add more auto-translate languages, and show captions in picture-in-picture.",
+      "description": "Adds options to disable captions from being automatically enabled, select a preferred and a secondary caption language, add more auto-translate languages, and show captions in stable blocks and in picture-in-picture. Stable blocks and bilingual captions work with YouTube 21.15 and newer, on Android 10 and newer.",
       "source": "Morphe Patches"
     },
     {
@@ -281,6 +291,11 @@
       "source": "Morphe Patches"
     },
     {
+      "name": "Translate live chat",
+      "description": "Adds an option to translate live chat and live chat replay messages.",
+      "source": "Morphe Patches"
+    },
+    {
       "name": "Open channel of live avatar",
       "description": "Adds an option to prevent a channel's current live video from opening when tapping its avatar.",
       "source": "Morphe Patches"
@@ -388,6 +403,11 @@
     {
       "name": "Open Shorts in regular player",
       "description": "Adds options to open Shorts in the regular video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Snackbar",
+      "description": "Adds options to hide the snackbar or change its colors and shape.",
       "source": "Morphe Patches"
     },
     {

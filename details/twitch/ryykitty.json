@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "versionKey": "twitch",
-  "versionName": "0.001",
-  "updatedAt": "2026-11-04T21:57:52Z",
+  "versionName": "0.002",
+  "updatedAt": "2026-11-06T17:18:52Z",
   "basePackage": "tv.twitch.android.app",
   "baseVersion": "31.8.0",
   "sizeBytes": 348708318,
-  "sha256": "e8a40a774c013474d7102e3aa7be60ba845d8959c5559fce10fbb0133df157db",
+  "sha256": "afe73fde5c6798ca42512293b527bb6f13c1b2f3e0bfc07dd864acdbf58da293",
   "sources": [
     {
       "name": "Ryykitty",

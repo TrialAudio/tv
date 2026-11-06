@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "versionKey": "spotify",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-06T17:18:52Z",
+  "basePackage": "com.spotify.music",
+  "baseVersion": "9.1.94.1929",
+  "sizeBytes": 155686552,
+  "sha256": "9e7bab3bdb4b5c3c8b8696bc4703a501526b0c318dc0da41a5506a585e1b1815",
+  "sources": [
+    {
+      "name": "Pablobaro",
+      "version": "1.0.0",
+      "url": "https://github.com/pablobaro/pablobaro-morphe-patches",
+      "author": "pablobaro"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Block popup ads",
+      "description": "Blocks fullscreen promotions (\"Pendragon\" messages) shown when opening the app.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Hide ad sections",
+      "description": "Removes brand ad sections from the home and search page.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Hide playlist ads",
+      "description": "Removes ads embedded into playlists.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Hide video ads",
+      "description": "Disables the video ad plugin of the now playing view.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Mute audio ads",
+      "description": "Mutes the music stream while an audio ad plays and restores the volume afterwards. Enabling \"Device broadcast status\" in the Spotify settings improves the ad detection.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Hide Premium tab",
+      "description": "Removes the \"Premium\" tab from the bottom navigation bar.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Fix third party launchers widgets",
+      "description": "Allows the Spotify widgets to be added to third party launchers.",
+      "source": "Pablobaro"
+    },
+    {
+      "name": "Sanitize sharing links",
+      "description": "Removes the tracking parameters (si, utm_source) from shared and copied links.",
+      "source": "Pablobaro"
+    }
+  ]
+}

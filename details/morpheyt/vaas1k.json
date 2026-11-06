@@ -1,0 +1,590 @@
+{
+  "schema": 1,
+  "versionKey": "morpheyt",
+  "versionName": "0.001",
+  "updatedAt": "2026-11-06T17:18:52Z",
+  "basePackage": "com.google.android.youtube",
+  "baseVersion": "21.30.216",
+  "sizeBytes": 222207685,
+  "sha256": "1b638759f118b2846c94399c39812e3286ba79a78931d8cda36a84cd0fb22156",
+  "sources": [
+    {
+      "name": "Morphe Patches",
+      "version": "2.1.0",
+      "url": "https://github.com/MorpheApp/morphe-patches"
+    },
+    {
+      "name": "Vaas1k",
+      "version": "1.1.0",
+      "url": "https://github.com/vaas1k/morphe-patches-gemini-ask",
+      "author": "vaas1k"
+    }
+  ],
+  "patches": [
+    {
+      "name": "Hide ads",
+      "description": "Adds options to hide general ads, Premium promotions and video ads.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Ask flyout menu",
+      "description": "Adds a video menu entry that opens Ask for the video and summarizes the video. This patch works with YouTube 21.16.256 and newer.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Channel search",
+      "description": "Adds an option to search inside the channel that is currently open instead of searching all of YouTube.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable continue watching prompt",
+      "description": "Adds an option to keep autoplay going instead of pausing with a \"Continue watching\" prompt after a period of inactivity.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Copy text",
+      "description": "Adds options to copy the video title and comments, and to select text of video descriptions and posts, by tapping and holding them.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Copy video link",
+      "description": "Adds options to display buttons in the video player to copy video links.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Remove viewer discretion dialog",
+      "description": "Adds an option to remove the dialog that appears when opening a video that has been age-restricted by accepting it automatically. This does not bypass the age restriction.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable double tap actions",
+      "description": "Adds an option to disable player double tap gestures.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Double tap to seek",
+      "description": "Adds additional double-tap to seek values to the YouTube settings menu.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Downloads",
+      "description": "Adds support to download videos with an external downloader app using the in-app download button or a video player action button, adds an option to download videos in-app, and exports saved videos to the device.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Feed video actions",
+      "description": "Adds a Watch later button to video thumbnails in feeds, and opens the video menu by tapping and holding anywhere on a video.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable haptic feedback",
+      "description": "Adds an option to disable haptic feedback in the player for various actions.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Loop video",
+      "description": "Adds an option to loop videos and display loop video button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Change picture-in-picture actions",
+      "description": "Adds options to change the buttons shown in picture-in-picture mode.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Picture-in-picture button",
+      "description": "Adds an option to display a picture-in-picture button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Play all",
+      "description": "Adds an option to play all the videos from a channel and to display play all button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Download post images",
+      "description": "Adds a button and a menu item to download the images and GIFs of posts.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Translate posts",
+      "description": "Adds a menu item to translate the text of posts.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Reload video",
+      "description": "Adds an option to display reload video button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Save to Watch later",
+      "description": "Adds an option to display save to Watch later button in the video player, and adds a setting to redirect Watch later saves to a playlist of your choice.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Search comments",
+      "description": "Adds a button to the comments to show only the loaded comments that contain the searched words.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Seekbar",
+      "description": "Adds options to show old seekbar thumbnails, disable precise seeking when swiping up on the seekbar, slide to seek instead of playing at 2x speed when pressing and holding, tapping the player seekbar to seek, hiding the video player seekbar, enabling seeking in live streams, and expanding the live stream DVR duration.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Skip live Shorts",
+      "description": "Automatically skips live streams that appear in the Shorts feed.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Swipe controls",
+      "description": "Adds options to enable and configure volume and brightness swipe controls.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Watch later improvements",
+      "description": "Adds options to widen the drag handles of the Watch later videos and to hide the snackbar shown after removing a video.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Force animations",
+      "description": "Adds an option to always turn on or off the app animations that YouTube can turn off, such as the player transitions.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Custom branding",
+      "description": "Adds options to change the app icon and app name. For mounted (root) installations the branding is applied while patching, because it cannot be changed from the app settings.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Change header",
+      "description": "Adds an option to change the header logo in the top left corner of the app.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide video action buttons",
+      "description": "Adds options to hide video action buttons in fullscreen and portrait modes.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Navigation bar",
+      "description": "Adds options to hide and change the bottom navigation bar (such as the Shorts button) and the upper navigation toolbar.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide player overlay buttons",
+      "description": "Adds options to hide the Cast button, the player Autoplay, Captions, Previous & Next buttons, and to hide or change the opacity of the player control buttons background.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Captions",
+      "description": "Adds options to disable captions from being automatically enabled, select a preferred and a secondary caption language, add more auto-translate languages, and show captions in stable blocks and in picture-in-picture. Stable blocks and bilingual captions work with YouTube 21.15 and newer, on Android 10 and newer.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "DeArrow",
+      "description": "Adds options to replace video thumbnails and titles using the DeArrow API, or replace video thumbnails with image captures from the video.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable layout updates",
+      "description": "Adds an option to disable server side layout updates and use an older UI.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Feed card layout",
+      "description": "Adds an option to show or hide the card layout of feed videos, which YouTube sends as an A/B test.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable auto feed refresh",
+      "description": "Adds an option to stop feeds from refreshing automatically after they become outdated.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Feed view count",
+      "description": "Adds the view count to the bottom left of the thumbnails of feed videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Add to queue",
+      "description": "Adds a video queue to the feed flyout menu, using either the Morphe queue or a native queue that uses YouTube's playlist interface.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Custom font",
+      "description": "Adds an option to show the app with the device system font or a custom TTF or OTF font file instead of YouTube Sans.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Change form factor",
+      "description": "Adds an option to change the UI appearance to a phone, tablet, or automotive device.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Ambient mode",
+      "description": "Forces Ambient mode on and adds options to bypass power saving restrictions for Ambient mode and disable it entirely or in fullscreen.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide autoplay preview",
+      "description": "Adds an option to hide the autoplay preview at the end of videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide end screen cards",
+      "description": "Adds an option to hide suggested video cards at the end of videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide end screen suggested video",
+      "description": "Adds an option to hide the suggested video at the end of videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide layout components",
+      "description": "Adds options to hide general layout components.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide info cards",
+      "description": "Adds an option to hide info cards that creators add in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide player flyout menu components",
+      "description": "Adds options to hide menu components that appear when pressing the gear icon in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable player popup panels",
+      "description": "Adds an option to disable panels (such as live chat) from opening automatically.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide related video overlay",
+      "description": "Adds an option to hide the related video overlay shown when swiping up in fullscreen.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide related videos",
+      "description": "Adds options to hide related videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable rolling number animations",
+      "description": "Adds an option to disable rolling number animations of video view count, user likes, and upload time.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Settings menu filter",
+      "description": "Adds an option to hide items on the standard YouTube settings screen by their visible name.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide Shorts components",
+      "description": "Adds options to hide components related to Shorts.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable sign in to TV popup",
+      "description": "Adds options to disable the popups asking to sign into or connect to a TV on the same local network.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide timestamp",
+      "description": "Adds an option to hide the timestamp in the bottom left of the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Translate live chat",
+      "description": "Adds an option to translate live chat and live chat replay messages.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Open channel of live avatar",
+      "description": "Adds an option to prevent a channel's current live video from opening when tapping its avatar.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Miniplayer",
+      "description": "Adds options to change the in-app minimized player. Patching 21.28.208 and lower has more miniplayer types to choose from.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Override YouTube Music buttons",
+      "description": "Overrides YouTube Music buttons to open Morphe Music or any compatible third-party client.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Niconico comments",
+      "description": "Adds an option to show live chat and chat replay as comments that scroll across the video.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Restore original titles",
+      "description": "Adds an option to show the original video titles, video descriptions and channel descriptions instead of the auto-translated ones.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Playback in feeds",
+      "description": "Adds the 'Playback in feeds' setting of YouTube to the Morphe settings, where it is always available even if YouTube hides it.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Mute button",
+      "description": "Adds an option to show a player button that mutes the video audio.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable fullscreen gestures",
+      "description": "Adds options to selectively disable gestures for entering and exiting fullscreen mode, and to disable pinch-to-zoom.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Exit fullscreen mode",
+      "description": "Adds options to automatically exit fullscreen mode when a video reaches the end.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Force fullscreen landscape",
+      "description": "Adds an option to rotate the player to landscape when entering fullscreen mode on tablets and other large screen devices.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Fullscreen video scale",
+      "description": "Adds options to stretch or zoom videos to fill the screen in fullscreen mode.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Open videos fullscreen",
+      "description": "Adds options to automatically open videos in fullscreen portrait or landscape mode.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Player icon style",
+      "description": "Adds an option to change the style of the player button icons.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Custom player overlay opacity",
+      "description": "Adds an option to change the opacity of the video player background when player controls are visible.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable playlist autoplay",
+      "description": "Adds an option to stop a playlist from automatically advancing to the next video.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Return YouTube Dislike",
+      "description": "Adds an option to show the dislike count of videos with Return YouTube Dislike, and the like count and like ratio on the thumbnails of feed videos.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable scrolling speed limit",
+      "description": "Adds an option to remove limits of how fast the home and subscription feed can be scrolled.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Open system share sheet",
+      "description": "Adds an option to always open the system share sheet instead of the in-app share sheet.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Shorts autoplay",
+      "description": "Adds options to automatically play the next Short.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Shorts icon style",
+      "description": "Adds an option to change the style of the Shorts action button icons.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable Shorts resuming on startup",
+      "description": "Adds an option to disable Shorts from resuming on app startup when Shorts were last being watched.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Open Shorts in regular player",
+      "description": "Adds options to open Shorts in the regular video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Snackbar",
+      "description": "Adds options to hide the snackbar or change its colors and shape.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "SponsorBlock",
+      "description": "Adds options to enable and configure SponsorBlock, which can skip undesired video segments such as sponsored content.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Change start page",
+      "description": "Adds an option to set which page the app opens in instead of the homepage.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Hide status bar",
+      "description": "Adds an option to hide the system status bar. Swipe down from the top edge to show it for a moment.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Theme",
+      "description": "Adds options for theming, and settings to change the app foreground and background colors.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Bypass image region restrictions",
+      "description": "Adds an option to use a different host for user avatar and channel images and can fix missing images that are blocked in some countries.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Wide search bar",
+      "description": "Adds a wide search bar to the top of the home and subscription feed.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "AI channel filter",
+      "description": "Adds options to hide videos from channels flagged as AI-generated by the AiSList community list and to report AI channels from the video menu.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Remove background playback restrictions",
+      "description": "Removes restrictions on background playback, including playing kids videos in the background.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Enable debugging",
+      "description": "Adds options for debugging and exporting Morphe logs to the clipboard.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Check watch history domain name resolution",
+      "description": "Checks if the device DNS server is preventing user watch history from being saved.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "GmsCore support",
+      "description": "Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Bypass link redirects",
+      "description": "Adds an option to bypass redirects and open the original link directly.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Open links externally",
+      "description": "Adds an option to always open links in your browser instead of with the in-app browser.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Media notification controls",
+      "description": "Adds options to disable the seekbar and previous/next buttons in the media notification and headphone controls.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "PoToken provider",
+      "description": "Adds option to get PoToken using an external PoToken minter app.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Sanitize sharing links",
+      "description": "Removes the tracking query parameters from shared links.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable QUIC protocol",
+      "description": "Adds an option to disable QUIC (Quick UDP Internet Connections) network protocol.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "App refresh rate",
+      "description": "Adds an option to change the app refresh rate.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Spoof video streams",
+      "description": "Adds options to spoof the client video streams to fix playback.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Spoof app version",
+      "description": "Adds an option to trick the app into thinking you are running an older version.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Spoof device dimensions",
+      "description": "Adds an option to spoof the device dimensions which can unlock higher video qualities.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Channel whitelist",
+      "description": "Adds options to allow whitelisting specific channels to show ads or override playback speeds.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable DRC audio",
+      "description": "Adds an option to disable DRC (Dynamic Range Compression) audio.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Force original audio",
+      "description": "Adds an option to always use the original audio track.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Skip silence",
+      "description": "Adds an option to automatically skip silent pauses in audio playback.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Playback buffer",
+      "description": "Adds an option to change the video playback buffer size.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Disable video codecs",
+      "description": "Adds options to disable or force HDR, and to disable VP9 or AV1 codecs.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Video delay",
+      "description": "Adds an option to delay the video, to keep it in sync with laggy Bluetooth audio.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Remember live stream playback position",
+      "description": "Adds an option to remember the playback position of an ongoing live stream and resume from there when reopening that live stream.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Video quality",
+      "description": "Adds options to set default video qualities and always use the advanced video quality menu.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Series tracking",
+      "description": "Adds a series library to History with local progress and episode continuation. This patch works with YouTube 21.02 and newer.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Playback speed",
+      "description": "Adds options to customize available playback speeds, set a default playback speed, and show a speed dialog button in the video player.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Voice over translation",
+      "description": "Adds additional voice over languages using text-to-speech synchronized to the video playback.",
+      "source": "Morphe Patches"
+    },
+    {
+      "name": "Gemini Ask",
+      "description": "Adds a Gemini button to the player that sends the video link to the Gemini app. Apply together with the official Morphe patches.",
+      "source": "Vaas1k"
+    }
+  ]
+}
